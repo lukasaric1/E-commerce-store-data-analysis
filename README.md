@@ -44,9 +44,13 @@ Comparison how much men and women spent
 # CONCLUSION
 
 From the analysis of this data based on a sample of 1000 customers, we can draw the following conclusions: 
-* we have more male than female customers.
+* We have more male than female customers.
 * Men spent more money than women if we look at the total number of men and women. We would get more precise information if we compared the same number of women and men.
 * People over the age of 35 brought us more money than those who are 35 or younger.
+
+Also we could do:
+* Forecasting seasonal sales trends
+* Visualization of the sales performance of a specific product or product category
 
 
 
