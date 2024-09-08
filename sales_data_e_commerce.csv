@@ -1,0 +1,1002 @@
+﻿transaction_ID;customer_ID;transcation_date;product_ID;product_name;category;quantity;price_usd;total_price_usd;customer_age;customer_gender;customer_city
+T0001;C103;1.1.2023 0:00;P049;Laptop;Accessories;1;459.59;459.59;22;Female;Chicago
+T0002;C436;1.1.2023 1:00;P011;Tablet;Home Appliances;2;666.58;1333.16;47;Female;Boston
+T0003;C349;1.1.2023 2:00;P085;Monitor;Accessories;4;104.48;417.92;23;Female;Chicago
+T0004;C271;1.1.2023 3:00;P026;Headphones;Electronics;2;235.41;470.82;63;Male;Los Angeles
+T0005;C107;1.1.2023 4:00;P063;Camera;Home Appliances;4;1160.04;4640.16;61;Male;Phoenix
+T0006;C072;1.1.2023 5:00;P089;Tablet;Home Appliances;3;50.02;150.06;21;Male;Boston
+T0007;C189;1.1.2023 6:00;P086;Monitor;Electronics;3;654.02;1962.06;46;Male;Phoenix
+T0008;C021;1.1.2023 7:00;P059;Smartwatch;Home Appliances;3;807.64;2422.92;40;Male;Phoenix
+T0009;C103;1.1.2023 8:00;P027;Headphones;Home Appliances;3;129.22;387.66;23;Female;New York
+T0010;C122;1.1.2023 9:00;P049;Smartwatch;Electronics;3;1460.96;4382.88;49;Male;Boston
+T0011;C467;1.1.2023 10:00;P077;Laptop;Home Appliances;2;377.88;755.76;59;Female;Chicago
+T0012;C215;1.1.2023 11:00;P033;Smartphone;Electronics;3;491.09;1473.27;35;Female;Phoenix
+T0013;C331;1.1.2023 12:00;P098;Headphones;Electronics;1;490.72;490.72;32;Male;Miami
+T0014;C459;1.1.2023 13:00;P099;Monitor;Accessories;1;384.1;384.1;57;Female;New York
+T0015;C088;1.1.2023 14:00;P001;Monitor;Accessories;2;52.14;104.28;49;Male;Los Angeles
+T0016;C373;1.1.2023 15:00;P021;Laptop;Home Appliances;4;1107.55;4430.2;26;Female;Phoenix
+T0017;C100;1.1.2023 16:00;P055;Laptop;Home Appliances;1;1451.93;1451.93;54;Male;Phoenix
+T0018;C360;1.1.2023 17:00;P006;Headphones;Electronics;4;375.23;1500.92;27;Male;New York
+T0019;C152;1.1.2023 18:00;P092;Smartwatch;Home Appliances;2;1011.42;2022.84;37;Female;Chicago
+T0020;C131;1.1.2023 19:00;P081;Camera;Electronics;4;1125.75;4503;23;Male;Miami
+T0021;C150;1.1.2023 20:00;P069;Monitor;Electronics;4;1280.22;5120.88;65;Female;Los Angeles
+T0022;C309;1.1.2023 21:00;P095;Monitor;Home Appliances;4;662.81;2651.24;20;Male;Phoenix
+T0023;C258;1.1.2023 22:00;P005;Laptop;Electronics;4;489.25;1957;59;Male;Chicago
+T0024;C344;1.1.2023 23:00;P003;Tablet;Accessories;2;521.68;1043.36;28;Male;Boston
+T0025;C492;2.1.2023 0:00;P053;Laptop;Home Appliances;1;1083.3;1083.3;60;Female;Miami
+T0026;C414;2.1.2023 1:00;P023;Camera;Accessories;3;1234.33;3702.99;34;Female;Boston
+T0027;C294;2.1.2023 2:00;P053;Smartwatch;Home Appliances;4;313.34;1253.36;49;Male;Miami
+T0028;C386;2.1.2023 3:00;P037;Smartwatch;Electronics;1;587.86;587.86;21;Female;Los Angeles
+T0029;C192;2.1.2023 4:00;P074;Tablet;Home Appliances;1;1357.81;1357.81;21;Male;Houston
+T0030;C444;2.1.2023 5:00;P074;Monitor;Accessories;2;1219.71;2439.42;34;Female;Miami
+T0031;C277;2.1.2023 6:00;P083;Laptop;Electronics;1;1478.04;1478.04;58;Female;Houston
+T0032;C161;2.1.2023 7:00;P017;Smartwatch;Home Appliances;2;1143.66;2287.32;36;Male;Boston
+T0033;C460;2.1.2023 8:00;P085;Camera;Home Appliances;4;620.13;2480.52;22;Male;Miami
+T0034;C314;2.1.2023 9:00;P078;Headphones;Home Appliances;4;906.42;3625.68;49;Male;Los Angeles
+T0035;C022;2.1.2023 10:00;P073;Smartphone;Accessories;3;1008.47;3025.41;39;Male;New York
+T0036;C253;2.1.2023 11:00;P001;Smartphone;Accessories;3;163.76;491.28;23;Male;Los Angeles
+T0037;C236;2.1.2023 12:00;P051;Smartphone;Home Appliances;3;839.52;2518.56;52;Female;Los Angeles
+T0038;C345;2.1.2023 13:00;P045;Monitor;Electronics;1;1078.52;1078.52;39;Female;New York
+T0039;C049;2.1.2023 14:00;P077;Laptop;Electronics;4;292.62;1170.48;18;Male;New York
+T0040;C475;2.1.2023 15:00;P004;Tablet;Accessories;2;1181.92;2363.84;37;Male;Chicago
+T0041;C059;2.1.2023 16:00;P062;Smartwatch;Electronics;3;896.47;2689.41;39;Male;Miami
+T0042;C170;2.1.2023 17:00;P065;Headphones;Accessories;2;1430.72;2861.44;65;Female;Boston
+T0043;C476;2.1.2023 18:00;P032;Camera;Home Appliances;2;111.51;223.02;28;Male;Chicago
+T0044;C188;2.1.2023 19:00;P034;Headphones;Accessories;3;434.72;1304.16;30;Male;New York
+T0045;C464;2.1.2023 20:00;P092;Camera;Accessories;4;922.25;3689;59;Female;Houston
+T0046;C271;2.1.2023 21:00;P095;Monitor;Home Appliances;3;480.01;1440.03;20;Female;Boston
+T0047;C190;2.1.2023 22:00;P072;Laptop;Electronics;2;1085.92;2171.84;26;Female;Houston
+T0048;C446;2.1.2023 23:00;P039;Smartphone;Accessories;3;1150.56;3451.68;29;Female;Los Angeles
+T0049;C175;3.1.2023 0:00;P026;Laptop;Accessories;2;198.65;397.3;40;Male;Phoenix
+T0050;C446;3.1.2023 1:00;P034;Monitor;Home Appliances;2;795.09;1590.18;31;Female;Los Angeles
+T0051;C051;3.1.2023 2:00;P054;Tablet;Electronics;3;787.89;2363.67;50;Female;Los Angeles
+T0052;C364;3.1.2023 3:00;P003;Tablet;Accessories;1;585.46;585.46;35;Male;Phoenix
+T0053;C055;3.1.2023 4:00;P050;Monitor;Home Appliances;3;1402.74;4208.22;66;Male;Miami
+T0054;C244;3.1.2023 5:00;P012;Camera;Accessories;1;1249.88;1249.88;58;Male;New York
+T0055;C320;3.1.2023 6:00;P065;Smartwatch;Home Appliances;2;1060.95;2121.9;26;Female;Houston
+T0056;C131;3.1.2023 7:00;P054;Smartwatch;Electronics;2;1085.77;2171.54;40;Male;Los Angeles
+T0057;C485;3.1.2023 8:00;P005;Camera;Electronics;1;719.49;719.49;27;Female;Phoenix
+T0058;C307;3.1.2023 9:00;P094;Tablet;Electronics;2;1385.44;2770.88;36;Female;Chicago
+T0059;C135;3.1.2023 10:00;P094;Tablet;Electronics;1;1057.16;1057.16;64;Female;Los Angeles
+T0060;C021;3.1.2023 11:00;P057;Tablet;Accessories;1;1107.02;1107.02;22;Male;Houston
+T0061;C329;3.1.2023 12:00;P017;Laptop;Accessories;2;1299.45;2598.9;64;Female;New York
+T0062;C167;3.1.2023 13:00;P047;Tablet;Electronics;4;447.4;1789.6;69;Male;Los Angeles
+T0063;C274;3.1.2023 14:00;P023;Headphones;Electronics;1;1220.25;1220.25;40;Male;Los Angeles
+T0064;C388;3.1.2023 15:00;P079;Smartphone;Electronics;3;333.1;999.3;47;Male;Miami
+T0065;C089;3.1.2023 16:00;P085;Tablet;Accessories;3;550.75;1652.25;42;Female;Phoenix
+T0066;C316;3.1.2023 17:00;P014;Camera;Electronics;2;536.64;1073.28;45;Female;Chicago
+T0067;C014;3.1.2023 18:00;P066;Smartphone;Electronics;4;1468.86;5875.44;51;Female;Chicago
+T0068;C242;3.1.2023 19:00;P075;Laptop;Electronics;2;1291.98;2583.96;62;Male;Boston
+T0069;C265;3.1.2023 20:00;P051;Camera;Home Appliances;4;1066.7;4266.8;65;Female;New York
+T0070;C346;3.1.2023 21:00;P038;Smartphone;Electronics;1;1104.23;1104.23;64;Female;Boston
+T0071;C053;3.1.2023 22:00;P064;Camera;Home Appliances;1;865.01;865.01;42;Female;Houston
+T0072;C386;3.1.2023 23:00;P098;Laptop;Home Appliances;1;1423.28;1423.28;27;Female;New York
+T0073;C340;4.1.2023 0:00;P038;Headphones;Electronics;1;769.58;769.58;31;Female;Los Angeles
+T0074;C092;4.1.2023 1:00;P050;Laptop;Home Appliances;3;601.75;1805.25;59;Male;Los Angeles
+T0075;C367;4.1.2023 2:00;P098;Laptop;Electronics;3;286.4;859.2;63;Male;Chicago
+T0076;C444;4.1.2023 3:00;P082;Camera;Accessories;2;1190;2380;47;Male;Houston
+T0077;C455;4.1.2023 4:00;P030;Monitor;Accessories;4;1114.94;4459.76;58;Male;Phoenix
+T0078;C428;4.1.2023 5:00;P079;Smartwatch;Accessories;1;607.31;607.31;42;Female;Houston
+T0079;C264;4.1.2023 6:00;P091;Tablet;Accessories;1;86.53;86.53;31;Male;Los Angeles
+T0080;C431;4.1.2023 7:00;P051;Tablet;Home Appliances;4;1266.55;5066.2;52;Female;Phoenix
+T0081;C035;4.1.2023 8:00;P063;Headphones;Electronics;4;66.56;266.24;69;Male;Houston
+T0082;C206;4.1.2023 9:00;P098;Headphones;Electronics;2;1070.36;2140.72;65;Male;Houston
+T0083;C081;4.1.2023 10:00;P052;Tablet;Electronics;4;1456.87;5827.48;51;Male;Phoenix
+T0084;C420;4.1.2023 11:00;P038;Smartwatch;Accessories;1;684.61;684.61;27;Female;Los Angeles
+T0085;C050;4.1.2023 12:00;P097;Tablet;Accessories;1;390.71;390.71;52;Female;Houston
+T0086;C360;4.1.2023 13:00;P088;Monitor;Electronics;1;1072.06;1072.06;28;Male;Phoenix
+T0087;C388;4.1.2023 14:00;P079;Smartwatch;Accessories;1;1234.84;1234.84;28;Female;Miami
+T0088;C002;4.1.2023 15:00;P030;Headphones;Electronics;1;842.32;842.32;38;Male;Miami
+T0089;C390;4.1.2023 16:00;P051;Smartphone;Electronics;2;1452.2;2904.4;38;Male;Los Angeles
+T0090;C054;4.1.2023 17:00;P081;Camera;Electronics;1;124.92;124.92;39;Male;Phoenix
+T0091;C106;4.1.2023 18:00;P005;Monitor;Electronics;2;781.95;1563.9;62;Female;Miami
+T0092;C260;4.1.2023 19:00;P029;Monitor;Electronics;1;1091.76;1091.76;24;Male;Phoenix
+T0093;C310;4.1.2023 20:00;P004;Headphones;Electronics;3;1300.83;3902.49;34;Male;Houston
+T0094;C477;4.1.2023 21:00;P010;Headphones;Electronics;3;309.92;929.76;19;Male;Los Angeles
+T0095;C191;4.1.2023 22:00;P056;Laptop;Accessories;3;1210.01;3630.03;29;Female;Miami
+T0096;C402;4.1.2023 23:00;P017;Monitor;Electronics;3;851.43;2554.29;59;Male;Boston
+T0097;C218;5.1.2023 0:00;P074;Laptop;Electronics;2;625;1250;35;Female;Houston
+T0098;C044;5.1.2023 1:00;P017;Laptop;Accessories;2;240.99;481.98;28;Male;Boston
+T0099;C162;5.1.2023 2:00;P084;Camera;Accessories;4;1304.68;5218.72;33;Female;Boston
+T0100;C202;5.1.2023 3:00;P088;Laptop;Accessories;1;278.05;278.05;66;Male;New York
+T0101;C446;5.1.2023 4:00;P069;Smartwatch;Electronics;3;499.19;1497.57;68;Male;New York
+T0102;C484;5.1.2023 5:00;P034;Tablet;Home Appliances;2;470.57;941.14;35;Female;Los Angeles
+T0103;C270;5.1.2023 6:00;P006;Smartphone;Home Appliances;1;1313.55;1313.55;52;Female;Miami
+T0104;C351;5.1.2023 7:00;P053;Headphones;Accessories;1;1025.42;1025.42;43;Male;Miami
+T0105;C304;5.1.2023 8:00;P066;Smartwatch;Home Appliances;2;1205.19;2410.38;33;Female;Miami
+T0106;C271;5.1.2023 9:00;P077;Smartphone;Accessories;3;413.18;1239.54;23;Male;Phoenix
+T0107;C456;5.1.2023 10:00;P043;Monitor;Electronics;4;956.07;3824.28;61;Male;Houston
+T0108;C462;5.1.2023 11:00;P075;Monitor;Home Appliances;1;879.03;879.03;60;Male;Miami
+T0109;C215;5.1.2023 12:00;P023;Monitor;Electronics;4;1257.6;5030.4;64;Female;Houston
+T0110;C252;5.1.2023 13:00;P055;Smartwatch;Home Appliances;3;1363.83;4091.49;64;Male;Los Angeles
+T0111;C190;5.1.2023 14:00;P080;Smartwatch;Electronics;3;67.63;202.89;65;Female;Boston
+T0112;C296;5.1.2023 15:00;P095;Headphones;Home Appliances;4;1027.33;4109.32;59;Male;Miami
+T0113;C213;5.1.2023 16:00;P075;Tablet;Electronics;3;125.16;375.48;29;Female;Los Angeles
+T0114;C208;5.1.2023 17:00;P016;Laptop;Electronics;1;845.85;845.85;30;Female;Miami
+T0115;C237;5.1.2023 18:00;P008;Monitor;Home Appliances;4;467.07;1868.28;21;Male;New York
+T0116;C338;5.1.2023 19:00;P004;Camera;Electronics;3;494.83;1484.49;56;Female;Chicago
+T0117;C367;5.1.2023 20:00;P004;Tablet;Electronics;4;561.79;2247.16;19;Male;Los Angeles
+T0118;C053;5.1.2023 21:00;P056;Camera;Electronics;1;950.87;950.87;43;Male;Miami
+T0119;C280;5.1.2023 22:00;P025;Headphones;Home Appliances;3;534.37;1603.11;44;Male;Chicago
+T0120;C410;5.1.2023 23:00;P067;Headphones;Home Appliances;1;1112.41;1112.41;44;Male;Los Angeles
+T0121;C217;6.1.2023 0:00;P096;Headphones;Electronics;3;636.56;1909.68;32;Male;Phoenix
+T0122;C252;6.1.2023 1:00;P067;Smartphone;Electronics;2;149.11;298.22;25;Female;Miami
+T0123;C188;6.1.2023 2:00;P027;Camera;Home Appliances;3;1186.45;3559.35;24;Male;Phoenix
+T0124;C380;6.1.2023 3:00;P093;Tablet;Home Appliances;4;464.35;1857.4;64;Female;New York
+T0125;C493;6.1.2023 4:00;P032;Tablet;Electronics;3;677.51;2032.53;63;Female;Miami
+T0126;C041;6.1.2023 5:00;P050;Smartwatch;Electronics;1;1043.89;1043.89;57;Male;Boston
+T0127;C157;6.1.2023 6:00;P061;Smartwatch;Electronics;1;532.06;532.06;29;Female;New York
+T0128;C015;6.1.2023 7:00;P051;Monitor;Accessories;3;132.05;396.15;30;Male;Chicago
+T0129;C301;6.1.2023 8:00;P019;Smartwatch;Home Appliances;4;592.19;2368.76;60;Female;Los Angeles
+T0130;C065;6.1.2023 9:00;P021;Headphones;Accessories;2;1419.45;2838.9;34;Female;Houston
+T0131;C345;6.1.2023 10:00;P005;Tablet;Home Appliances;4;980.51;3922.04;34;Female;New York
+T0132;C327;6.1.2023 11:00;P082;Camera;Home Appliances;2;1023.64;2047.28;53;Male;Houston
+T0133;C009;6.1.2023 12:00;P092;Headphones;Home Appliances;1;966.81;966.81;38;Female;Houston
+T0134;C344;6.1.2023 13:00;P042;Smartphone;Home Appliances;4;338.54;1354.16;25;Male;Los Angeles
+T0135;C129;6.1.2023 14:00;P061;Smartwatch;Home Appliances;2;656.58;1313.16;22;Female;Chicago
+T0136;C492;6.1.2023 15:00;P022;Headphones;Home Appliances;3;1138.86;3416.58;43;Female;Los Angeles
+T0137;C136;6.1.2023 16:00;P021;Headphones;Home Appliances;1;196.99;196.99;33;Female;Miami
+T0138;C472;6.1.2023 17:00;P070;Smartphone;Accessories;3;452.89;1358.67;53;Female;New York
+T0139;C063;6.1.2023 18:00;P001;Laptop;Electronics;1;450.66;450.66;45;Male;Houston
+T0140;C139;6.1.2023 19:00;P005;Tablet;Electronics;4;676.43;2705.72;46;Male;Los Angeles
+T0141;C499;6.1.2023 20:00;P012;Camera;Accessories;4;1471.53;5886.12;64;Female;Los Angeles
+T0142;C081;6.1.2023 21:00;P090;Monitor;Accessories;1;147.88;147.88;29;Female;Los Angeles
+T0143;C392;6.1.2023 22:00;P046;Laptop;Accessories;1;802.12;802.12;54;Male;New York
+T0144;C163;6.1.2023 23:00;P034;Smartwatch;Accessories;1;310.08;310.08;47;Male;Chicago
+T0145;C419;7.1.2023 0:00;P049;Headphones;Home Appliances;4;1457.48;5829.92;40;Male;Boston
+T0146;C289;7.1.2023 1:00;P078;Smartphone;Electronics;2;214.29;428.58;33;Male;Los Angeles
+T0147;C379;7.1.2023 2:00;P090;Smartphone;Home Appliances;3;635.22;1905.66;31;Female;New York
+T0148;C261;7.1.2023 3:00;P045;Tablet;Electronics;3;1119.93;3359.79;27;Female;Houston
+T0149;C490;7.1.2023 4:00;P027;Laptop;Electronics;4;1071.6;4286.4;24;Male;Miami
+T0150;C231;7.1.2023 5:00;P073;Monitor;Accessories;3;662.96;1988.88;62;Male;Boston
+T0151;C041;7.1.2023 6:00;P026;Tablet;Home Appliances;1;552.46;552.46;69;Male;Phoenix
+T0152;C028;7.1.2023 7:00;P047;Headphones;Accessories;2;626.54;1253.08;54;Male;Boston
+T0153;C135;7.1.2023 8:00;P086;Tablet;Home Appliances;3;433.2;1299.6;46;Male;Boston
+T0154;C201;7.1.2023 9:00;P056;Camera;Electronics;2;347.73;695.46;20;Male;New York
+T0155;C328;7.1.2023 10:00;P094;Smartphone;Accessories;1;750.41;750.41;32;Female;Phoenix
+T0156;C268;7.1.2023 11:00;P063;Smartphone;Accessories;3;439.37;1318.11;53;Female;Los Angeles
+T0157;C418;7.1.2023 12:00;P048;Smartwatch;Electronics;4;466.82;1867.28;64;Female;Los Angeles
+T0158;C033;7.1.2023 13:00;P061;Smartwatch;Electronics;2;1002.3;2004.6;63;Male;Boston
+T0159;C048;7.1.2023 14:00;P081;Monitor;Electronics;1;1454.38;1454.38;69;Male;New York
+T0160;C407;7.1.2023 15:00;P026;Headphones;Accessories;2;925.27;1850.54;36;Male;Phoenix
+T0161;C062;7.1.2023 16:00;P036;Camera;Home Appliances;3;161.62;484.86;30;Female;Los Angeles
+T0162;C216;7.1.2023 17:00;P001;Laptop;Accessories;3;159.6;478.8;59;Male;Houston
+T0163;C293;7.1.2023 18:00;P008;Tablet;Home Appliances;4;1429.56;5718.24;38;Male;Chicago
+T0164;C099;7.1.2023 19:00;P099;Monitor;Accessories;1;481.07;481.07;54;Female;Chicago
+T0165;C172;7.1.2023 20:00;P052;Headphones;Accessories;1;183.5;183.5;44;Male;Los Angeles
+T0166;C360;7.1.2023 21:00;P079;Smartwatch;Electronics;4;918.61;3674.44;69;Female;Phoenix
+T0167;C214;7.1.2023 22:00;P047;Tablet;Home Appliances;4;954.29;3817.16;46;Female;Miami
+T0168;C475;7.1.2023 23:00;P056;Smartwatch;Accessories;1;990.33;990.33;37;Male;Los Angeles
+T0169;C035;8.1.2023 0:00;P086;Tablet;Accessories;2;437.73;875.46;42;Female;Miami
+T0170;C449;8.1.2023 1:00;P014;Laptop;Electronics;2;71.91;143.82;23;Male;Miami
+T0171;C227;8.1.2023 2:00;P090;Headphones;Electronics;4;1449.27;5797.08;53;Female;Phoenix
+T0172;C101;8.1.2023 3:00;P028;Tablet;Home Appliances;2;413.79;827.58;19;Male;Miami
+T0173;C431;8.1.2023 4:00;P087;Camera;Accessories;1;1030.24;1030.24;39;Female;Houston
+T0174;C462;8.1.2023 5:00;P078;Monitor;Home Appliances;3;1074.61;3223.83;49;Male;Phoenix
+T0175;C131;8.1.2023 6:00;P088;Smartphone;Accessories;3;934.51;2803.53;33;Female;Los Angeles
+T0176;C257;8.1.2023 7:00;P002;Camera;Home Appliances;2;503.72;1007.44;35;Female;Boston
+T0177;C005;8.1.2023 8:00;P026;Camera;Electronics;4;443.09;1772.36;22;Female;Houston
+T0178;C218;8.1.2023 9:00;P014;Monitor;Accessories;4;916.62;3666.48;53;Male;New York
+T0179;C255;8.1.2023 10:00;P059;Smartphone;Home Appliances;4;1305.84;5223.36;47;Male;Chicago
+T0180;C398;8.1.2023 11:00;P056;Camera;Electronics;4;1422.76;5691.04;62;Female;Los Angeles
+T0181;C359;8.1.2023 12:00;P007;Tablet;Electronics;4;203.56;814.24;36;Male;Los Angeles
+T0182;C283;8.1.2023 13:00;P003;Tablet;Home Appliances;2;274.5;549;40;Female;Los Angeles
+T0183;C393;8.1.2023 14:00;P023;Tablet;Accessories;3;1419.87;4259.61;51;Male;Houston
+T0184;C207;8.1.2023 15:00;P018;Smartphone;Accessories;3;1117.98;3353.94;30;Female;New York
+T0185;C015;8.1.2023 16:00;P038;Camera;Electronics;2;1330.34;2660.68;60;Male;Boston
+T0186;C346;8.1.2023 17:00;P099;Smartphone;Accessories;4;343.82;1375.28;46;Female;Phoenix
+T0187;C042;8.1.2023 18:00;P015;Tablet;Accessories;2;902;1804;53;Female;New York
+T0188;C380;8.1.2023 19:00;P064;Monitor;Accessories;3;1066.65;3199.95;39;Female;Houston
+T0189;C461;8.1.2023 20:00;P089;Camera;Electronics;1;1036.16;1036.16;69;Female;Los Angeles
+T0190;C179;8.1.2023 21:00;P028;Camera;Home Appliances;2;641.82;1283.64;69;Male;Chicago
+T0191;C063;8.1.2023 22:00;P074;Smartwatch;Accessories;4;72.32;289.28;64;Female;Los Angeles
+T0192;C352;8.1.2023 23:00;P039;Smartwatch;Electronics;3;895.24;2685.72;53;Male;Phoenix
+T0193;C231;9.1.2023 0:00;P057;Laptop;Electronics;3;417;1251;26;Male;Miami
+T0194;C241;9.1.2023 1:00;P017;Headphones;Home Appliances;3;702.87;2108.61;56;Female;Chicago
+T0195;C052;9.1.2023 2:00;P086;Smartwatch;Accessories;3;1438.49;4315.47;68;Male;Los Angeles
+T0196;C096;9.1.2023 3:00;P090;Smartphone;Accessories;4;628.6;2514.4;36;Male;Boston
+T0197;C388;9.1.2023 4:00;P044;Smartwatch;Home Appliances;1;1267.71;1267.71;55;Male;Chicago
+T0198;C222;9.1.2023 5:00;P025;Laptop;Home Appliances;3;323.38;970.14;23;Female;Miami
+T0199;C485;9.1.2023 6:00;P017;Camera;Electronics;2;1025.07;2050.14;69;Male;New York
+T0200;C407;9.1.2023 7:00;P013;Laptop;Electronics;1;1466.66;1466.66;64;Male;Houston
+T0201;C231;9.1.2023 8:00;P084;Camera;Home Appliances;3;197.74;593.22;32;Female;Los Angeles
+T0202;C237;9.1.2023 9:00;P025;Monitor;Accessories;1;62.06;62.06;37;Female;Phoenix
+T0203;C143;9.1.2023 10:00;P068;Monitor;Electronics;2;678.7;1357.4;26;Male;New York
+T0204;C171;9.1.2023 11:00;P010;Camera;Electronics;3;184.31;552.93;49;Female;Los Angeles
+T0205;C029;9.1.2023 12:00;P067;Headphones;Accessories;2;1135.16;2270.32;21;Male;New York
+T0206;C036;9.1.2023 13:00;P018;Smartwatch;Electronics;4;1376.1;5504.4;67;Male;Phoenix
+T0207;C013;9.1.2023 14:00;P100;Smartphone;Accessories;3;679.33;2037.99;35;Male;Los Angeles
+T0208;C160;9.1.2023 15:00;P086;Smartphone;Accessories;3;425.13;1275.39;22;Female;Miami
+T0209;C327;9.1.2023 16:00;P034;Tablet;Accessories;3;679.88;2039.64;37;Male;Miami
+T0210;C187;9.1.2023 17:00;P008;Camera;Home Appliances;3;1099;3297;40;Female;Phoenix
+T0211;C243;9.1.2023 18:00;P040;Smartphone;Home Appliances;4;63.13;252.52;28;Female;Chicago
+T0212;C086;9.1.2023 19:00;P083;Headphones;Home Appliances;3;904.71;2714.13;54;Male;Phoenix
+T0213;C284;9.1.2023 20:00;P042;Camera;Accessories;1;939.27;939.27;39;Female;Chicago
+T0214;C066;9.1.2023 21:00;P041;Headphones;Accessories;3;974.65;2923.95;21;Female;Los Angeles
+T0215;C170;9.1.2023 22:00;P006;Smartphone;Home Appliances;4;400.93;1603.72;46;Female;Chicago
+T0216;C045;9.1.2023 23:00;P052;Smartphone;Electronics;3;1085.38;3256.14;61;Female;Los Angeles
+T0217;C062;10.1.2023 0:00;P026;Tablet;Accessories;1;182.52;182.52;51;Female;Los Angeles
+T0218;C441;10.1.2023 1:00;P064;Smartphone;Electronics;4;338.94;1355.76;30;Male;Boston
+T0219;C134;10.1.2023 2:00;P098;Camera;Electronics;4;1322.33;5289.32;59;Female;Houston
+T0220;C284;10.1.2023 3:00;P059;Monitor;Accessories;1;1121.15;1121.15;26;Male;Los Angeles
+T0221;C028;10.1.2023 4:00;P056;Camera;Accessories;1;69.93;69.93;59;Male;Chicago
+T0222;C108;10.1.2023 5:00;P059;Camera;Electronics;1;410.15;410.15;48;Male;Houston
+T0223;C044;10.1.2023 6:00;P070;Tablet;Electronics;1;360.89;360.89;24;Male;Houston
+T0224;C340;10.1.2023 7:00;P033;Tablet;Home Appliances;1;442.67;442.67;21;Male;Los Angeles
+T0225;C286;10.1.2023 8:00;P053;Smartphone;Home Appliances;4;408.96;1635.84;36;Male;Phoenix
+T0226;C446;10.1.2023 9:00;P022;Laptop;Accessories;4;140.66;562.64;59;Female;Phoenix
+T0227;C331;10.1.2023 10:00;P021;Laptop;Home Appliances;3;715.46;2146.38;47;Female;Miami
+T0228;C128;10.1.2023 11:00;P070;Tablet;Home Appliances;3;1112.46;3337.38;48;Female;Houston
+T0229;C348;10.1.2023 12:00;P070;Smartphone;Home Appliances;2;929.76;1859.52;52;Male;Los Angeles
+T0230;C473;10.1.2023 13:00;P004;Laptop;Home Appliances;3;1025.66;3076.98;38;Female;Boston
+T0231;C231;10.1.2023 14:00;P094;Smartphone;Electronics;3;167.67;503.01;48;Female;Phoenix
+T0232;C190;10.1.2023 15:00;P075;Smartphone;Accessories;1;1429.66;1429.66;36;Female;Boston
+T0233;C225;10.1.2023 16:00;P062;Smartphone;Home Appliances;1;1265.81;1265.81;48;Male;Los Angeles
+T0234;C385;10.1.2023 17:00;P062;Smartwatch;Electronics;3;1217.38;3652.14;49;Female;Los Angeles
+T0235;C377;10.1.2023 18:00;P094;Camera;Electronics;2;1243.33;2486.66;19;Male;Houston
+T0236;C283;10.1.2023 19:00;P095;Smartphone;Electronics;1;1402.43;1402.43;69;Female;Boston
+T0237;C446;10.1.2023 20:00;P024;Smartwatch;Home Appliances;3;839.17;2517.51;27;Male;Miami
+T0238;C121;10.1.2023 21:00;P055;Tablet;Home Appliances;3;340.41;1021.23;19;Male;Houston
+T0239;C116;10.1.2023 22:00;P009;Laptop;Accessories;4;944.34;3777.36;19;Male;New York
+T0240;C461;10.1.2023 23:00;P003;Camera;Home Appliances;2;1127.18;2254.36;41;Female;Boston
+T0241;C233;11.1.2023 0:00;P031;Monitor;Home Appliances;4;1119.98;4479.92;34;Female;Phoenix
+T0242;C259;11.1.2023 1:00;P040;Laptop;Electronics;2;806.1;1612.2;49;Male;Phoenix
+T0243;C359;11.1.2023 2:00;P036;Camera;Accessories;1;149.27;149.27;33;Female;Phoenix
+T0244;C198;11.1.2023 3:00;P024;Monitor;Home Appliances;2;588.11;1176.22;33;Male;Chicago
+T0245;C456;11.1.2023 4:00;P095;Laptop;Home Appliances;3;1385.11;4155.33;63;Male;Los Angeles
+T0246;C411;11.1.2023 5:00;P006;Camera;Electronics;3;897.45;2692.35;56;Female;Houston
+T0247;C137;11.1.2023 6:00;P066;Laptop;Electronics;2;830.58;1661.16;48;Female;Phoenix
+T0248;C318;11.1.2023 7:00;P084;Laptop;Home Appliances;2;439.84;879.68;60;Female;New York
+T0249;C165;11.1.2023 8:00;P092;Monitor;Accessories;2;584.25;1168.5;41;Male;Phoenix
+T0250;C225;11.1.2023 9:00;P075;Laptop;Accessories;4;1348.25;5393;18;Male;Miami
+T0251;C307;11.1.2023 10:00;P004;Laptop;Electronics;2;1016.37;2032.74;28;Female;Los Angeles
+T0252;C234;11.1.2023 11:00;P079;Monitor;Electronics;1;1191.71;1191.71;38;Male;Boston
+T0253;C172;11.1.2023 12:00;P006;Tablet;Home Appliances;4;708.8;2835.2;21;Female;Los Angeles
+T0254;C152;11.1.2023 13:00;P094;Smartphone;Electronics;4;963.86;3855.44;24;Male;Boston
+T0255;C463;11.1.2023 14:00;P051;Headphones;Home Appliances;2;410.16;820.32;43;Female;Boston
+T0256;C315;11.1.2023 15:00;P062;Smartwatch;Accessories;1;1072.92;1072.92;64;Female;Houston
+T0257;C374;11.1.2023 16:00;P057;Headphones;Accessories;4;670.02;2680.08;67;Male;Chicago
+T0258;C160;11.1.2023 17:00;P066;Headphones;Home Appliances;3;691.69;2075.07;29;Female;Boston
+T0259;C096;11.1.2023 18:00;P079;Camera;Electronics;4;991.52;3966.08;48;Female;Boston
+T0260;C472;11.1.2023 19:00;P075;Smartphone;Accessories;2;1407.61;2815.22;34;Male;Houston
+T0261;C233;11.1.2023 20:00;P008;Camera;Electronics;1;142.81;142.81;50;Female;Phoenix
+T0262;C180;11.1.2023 21:00;P026;Smartphone;Accessories;2;1245.88;2491.76;28;Male;Miami
+T0263;C113;11.1.2023 22:00;P051;Monitor;Home Appliances;3;473.96;1421.88;45;Female;New York
+T0264;C318;11.1.2023 23:00;P045;Monitor;Home Appliances;3;693.68;2081.04;49;Male;Houston
+T0265;C497;12.1.2023 0:00;P044;Smartphone;Home Appliances;3;81.77;245.31;18;Female;Chicago
+T0266;C442;12.1.2023 1:00;P005;Laptop;Accessories;2;486.52;973.04;64;Female;Houston
+T0267;C052;12.1.2023 2:00;P070;Tablet;Electronics;4;778.82;3115.28;45;Female;Los Angeles
+T0268;C268;12.1.2023 3:00;P026;Laptop;Electronics;2;131.46;262.92;59;Female;Phoenix
+T0269;C295;12.1.2023 4:00;P068;Tablet;Electronics;1;762.09;762.09;24;Male;Phoenix
+T0270;C386;12.1.2023 5:00;P019;Camera;Accessories;4;1394.31;5577.24;19;Male;Boston
+T0271;C387;12.1.2023 6:00;P084;Tablet;Accessories;3;202.82;608.46;59;Male;Phoenix
+T0272;C113;12.1.2023 7:00;P097;Camera;Accessories;2;1158.44;2316.88;41;Male;Phoenix
+T0273;C101;12.1.2023 8:00;P020;Monitor;Accessories;3;644.02;1932.06;21;Male;Phoenix
+T0274;C113;12.1.2023 9:00;P012;Headphones;Accessories;3;1000;3000;61;Male;Phoenix
+T0275;C440;12.1.2023 10:00;P047;Monitor;Electronics;1;427.34;427.34;36;Male;New York
+T0276;C081;12.1.2023 11:00;P001;Monitor;Accessories;4;281.26;1125.04;43;Female;Chicago
+T0277;C187;12.1.2023 12:00;P090;Headphones;Accessories;1;282.67;282.67;28;Female;Boston
+T0278;C113;12.1.2023 13:00;P014;Tablet;Electronics;1;152.21;152.21;57;Female;Phoenix
+T0279;C002;12.1.2023 14:00;P064;Tablet;Accessories;1;319.19;319.19;67;Female;Boston
+T0280;C130;12.1.2023 15:00;P038;Camera;Electronics;3;1013.12;3039.36;60;Male;Chicago
+T0281;C220;12.1.2023 16:00;P037;Laptop;Electronics;1;1328.45;1328.45;28;Male;Miami
+T0282;C054;12.1.2023 17:00;P011;Camera;Home Appliances;1;1230.48;1230.48;62;Male;Phoenix
+T0283;C343;12.1.2023 18:00;P100;Laptop;Home Appliances;4;1043.44;4173.76;20;Female;Boston
+T0284;C485;12.1.2023 19:00;P077;Monitor;Home Appliances;4;210.13;840.52;29;Male;Houston
+T0285;C224;12.1.2023 20:00;P003;Headphones;Home Appliances;1;469.32;469.32;20;Female;Boston
+T0286;C225;12.1.2023 21:00;P033;Monitor;Accessories;4;499.22;1996.88;59;Male;Phoenix
+T0287;C385;12.1.2023 22:00;P006;Smartphone;Home Appliances;4;412.44;1649.76;44;Male;Los Angeles
+T0288;C403;12.1.2023 23:00;P050;Tablet;Electronics;1;796.76;796.76;66;Male;New York
+T0289;C126;13.1.2023 0:00;P010;Laptop;Accessories;3;826.55;2479.65;19;Male;Houston
+T0290;C130;13.1.2023 1:00;P005;Camera;Home Appliances;1;567.48;567.48;66;Female;Houston
+T0291;C053;13.1.2023 2:00;P023;Headphones;Electronics;4;562.99;2251.96;33;Female;Los Angeles
+T0292;C172;13.1.2023 3:00;P010;Laptop;Accessories;3;1251.41;3754.23;19;Male;Phoenix
+T0293;C218;13.1.2023 4:00;P044;Camera;Accessories;2;1194.47;2388.94;47;Female;New York
+T0294;C160;13.1.2023 5:00;P002;Tablet;Home Appliances;3;496.3;1488.9;37;Male;Houston
+T0295;C198;13.1.2023 6:00;P013;Monitor;Accessories;4;1374.99;5499.96;55;Male;New York
+T0296;C416;13.1.2023 7:00;P040;Tablet;Electronics;3;1431.58;4294.74;45;Male;Houston
+T0297;C247;13.1.2023 8:00;P002;Smartwatch;Accessories;1;523.78;523.78;42;Male;Phoenix
+T0298;C324;13.1.2023 9:00;P084;Smartphone;Electronics;2;563.92;1127.84;49;Female;Miami
+T0299;C439;13.1.2023 10:00;P065;Smartwatch;Accessories;2;783.17;1566.34;27;Male;Houston
+T0300;C203;13.1.2023 11:00;P063;Headphones;Home Appliances;2;1414.63;2829.26;59;Male;Miami
+T0301;C184;13.1.2023 12:00;P073;Laptop;Electronics;4;1320.66;5282.64;57;Female;Houston
+T0302;C123;13.1.2023 13:00;P017;Headphones;Accessories;4;198.72;794.88;50;Male;Chicago
+T0303;C401;13.1.2023 14:00;P009;Monitor;Accessories;2;619.46;1238.92;30;Female;Phoenix
+T0304;C255;13.1.2023 15:00;P075;Camera;Accessories;3;852.39;2557.17;58;Male;Los Angeles
+T0305;C294;13.1.2023 16:00;P015;Tablet;Electronics;2;779.54;1559.08;59;Male;Miami
+T0306;C280;13.1.2023 17:00;P024;Smartwatch;Electronics;3;331.1;993.3;64;Male;Los Angeles
+T0307;C325;13.1.2023 18:00;P038;Smartwatch;Electronics;3;1295.28;3885.84;54;Male;Phoenix
+T0308;C372;13.1.2023 19:00;P035;Monitor;Home Appliances;4;1031.56;4126.24;33;Male;Boston
+T0309;C098;13.1.2023 20:00;P094;Smartwatch;Home Appliances;3;1264.97;3794.91;62;Male;Los Angeles
+T0310;C198;13.1.2023 21:00;P095;Monitor;Electronics;2;1295.21;2590.42;39;Female;Phoenix
+T0311;C470;13.1.2023 22:00;P049;Headphones;Accessories;4;1135.12;4540.48;37;Male;Los Angeles
+T0312;C395;13.1.2023 23:00;P069;Tablet;Home Appliances;1;686.86;686.86;67;Female;Miami
+T0313;C240;14.1.2023 0:00;P062;Laptop;Electronics;1;935.29;935.29;60;Female;Chicago
+T0314;C144;14.1.2023 1:00;P060;Camera;Accessories;4;282.53;1130.12;44;Male;Los Angeles
+T0315;C097;14.1.2023 2:00;P050;Laptop;Home Appliances;2;1026.79;2053.58;58;Female;Miami
+T0316;C201;14.1.2023 3:00;P078;Headphones;Accessories;1;309.92;309.92;33;Male;Houston
+T0317;C124;14.1.2023 4:00;P075;Camera;Accessories;1;1056.23;1056.23;51;Female;Phoenix
+T0318;C187;14.1.2023 5:00;P009;Smartwatch;Accessories;3;382.92;1148.76;49;Male;New York
+T0319;C326;14.1.2023 6:00;P034;Smartphone;Accessories;3;220.45;661.35;43;Female;Boston
+T0320;C464;14.1.2023 7:00;P076;Headphones;Home Appliances;2;289.66;579.32;42;Female;New York
+T0321;C349;14.1.2023 8:00;P099;Headphones;Home Appliances;4;52.89;211.56;19;Male;Phoenix
+T0322;C259;14.1.2023 9:00;P035;Tablet;Home Appliances;2;1092.17;2184.34;29;Female;Chicago
+T0323;C148;14.1.2023 10:00;P001;Laptop;Electronics;4;1111.98;4447.92;57;Male;Los Angeles
+T0324;C252;14.1.2023 11:00;P040;Headphones;Home Appliances;1;796.65;796.65;26;Male;Chicago
+T0325;C443;14.1.2023 12:00;P064;Headphones;Accessories;3;283.98;851.94;29;Male;New York
+T0326;C420;14.1.2023 13:00;P022;Smartwatch;Home Appliances;2;171.15;342.3;43;Male;Boston
+T0327;C403;14.1.2023 14:00;P060;Smartwatch;Accessories;2;77.74;155.48;26;Male;Miami
+T0328;C346;14.1.2023 15:00;P064;Camera;Electronics;4;290.33;1161.32;27;Female;Boston
+T0329;C451;14.1.2023 16:00;P093;Monitor;Accessories;4;1341.74;5366.96;49;Female;Phoenix
+T0330;C147;14.1.2023 17:00;P072;Monitor;Accessories;2;400.23;800.46;51;Female;Phoenix
+T0331;C148;14.1.2023 18:00;P011;Smartphone;Accessories;4;563.69;2254.76;65;Male;Chicago
+T0332;C352;14.1.2023 19:00;P014;Monitor;Electronics;2;202.75;405.5;37;Female;Miami
+T0333;C199;14.1.2023 20:00;P060;Tablet;Home Appliances;2;372.42;744.84;56;Female;Chicago
+T0334;C308;14.1.2023 21:00;P030;Smartphone;Home Appliances;2;802.88;1605.76;19;Female;Los Angeles
+T0335;C489;14.1.2023 22:00;P035;Camera;Electronics;1;931.24;931.24;18;Female;Houston
+T0336;C417;14.1.2023 23:00;P085;Smartwatch;Accessories;4;405.76;1623.04;68;Female;Miami
+T0337;C424;15.1.2023 0:00;P037;Monitor;Home Appliances;3;133.71;401.13;53;Male;Houston
+T0338;C128;15.1.2023 1:00;P005;Laptop;Electronics;3;617;1851;41;Male;Boston
+T0339;C039;15.1.2023 2:00;P083;Smartwatch;Home Appliances;4;389.59;1558.36;44;Female;Los Angeles
+T0340;C338;15.1.2023 3:00;P078;Tablet;Electronics;2;368.35;736.7;19;Male;Houston
+T0341;C360;15.1.2023 4:00;P026;Smartwatch;Accessories;3;1441.8;4325.4;48;Male;New York
+T0342;C129;15.1.2023 5:00;P062;Tablet;Home Appliances;3;943.64;2830.92;31;Female;Boston
+T0343;C267;15.1.2023 6:00;P004;Tablet;Electronics;4;857.47;3429.88;19;Female;Houston
+T0344;C476;15.1.2023 7:00;P089;Tablet;Home Appliances;3;652.87;1958.61;46;Male;Los Angeles
+T0345;C441;15.1.2023 8:00;P042;Camera;Home Appliances;2;671.97;1343.94;32;Female;Houston
+T0346;C473;15.1.2023 9:00;P089;Tablet;Home Appliances;4;834.31;3337.24;29;Male;Phoenix
+T0347;C434;15.1.2023 10:00;P018;Tablet;Home Appliances;2;1059.82;2119.64;54;Male;Chicago
+T0348;C151;15.1.2023 11:00;P040;Laptop;Electronics;3;1068.11;3204.33;45;Female;New York
+T0349;C415;15.1.2023 12:00;P072;Smartphone;Accessories;3;298.96;896.88;37;Male;Phoenix
+T0350;C478;15.1.2023 13:00;P039;Headphones;Electronics;2;775.16;1550.32;56;Male;Phoenix
+T0351;C298;15.1.2023 14:00;P014;Smartphone;Electronics;1;647.34;647.34;41;Male;Los Angeles
+T0352;C099;15.1.2023 15:00;P032;Tablet;Electronics;3;1312.26;3936.78;38;Female;Chicago
+T0353;C263;15.1.2023 16:00;P051;Laptop;Accessories;1;965.56;965.56;27;Female;Chicago
+T0354;C252;15.1.2023 17:00;P038;Smartwatch;Home Appliances;3;822.13;2466.39;63;Female;Miami
+T0355;C144;15.1.2023 18:00;P097;Laptop;Home Appliances;1;217.32;217.32;31;Female;Boston
+T0356;C346;15.1.2023 19:00;P023;Tablet;Home Appliances;1;928.17;928.17;54;Male;New York
+T0357;C112;15.1.2023 20:00;P063;Laptop;Accessories;1;219.95;219.95;35;Female;Boston
+T0358;C500;15.1.2023 21:00;P015;Monitor;Home Appliances;2;538.95;1077.9;41;Female;Los Angeles
+T0359;C060;15.1.2023 22:00;P097;Laptop;Accessories;1;257.12;257.12;31;Female;New York
+T0360;C369;15.1.2023 23:00;P025;Tablet;Home Appliances;1;1053.51;1053.51;51;Female;Miami
+T0361;C002;16.1.2023 0:00;P017;Camera;Home Appliances;1;349.07;349.07;29;Male;Houston
+T0362;C385;16.1.2023 1:00;P097;Monitor;Electronics;3;618.2;1854.6;39;Male;Phoenix
+T0363;C304;16.1.2023 2:00;P066;Laptop;Accessories;1;1348.73;1348.73;23;Male;New York
+T0364;C254;16.1.2023 3:00;P078;Headphones;Electronics;3;346.26;1038.78;53;Female;Boston
+T0365;C140;16.1.2023 4:00;P053;Headphones;Electronics;1;786.32;786.32;62;Female;Phoenix
+T0366;C453;16.1.2023 5:00;P051;Laptop;Electronics;1;657.94;657.94;53;Male;Los Angeles
+T0367;C037;16.1.2023 6:00;P039;Camera;Accessories;2;76.28;152.56;39;Female;Boston
+T0368;C160;16.1.2023 7:00;P051;Smartwatch;Accessories;3;1199.5;3598.5;31;Female;Houston
+T0369;C009;16.1.2023 8:00;P070;Tablet;Home Appliances;1;150.12;150.12;33;Male;Los Angeles
+T0370;C233;16.1.2023 9:00;P006;Headphones;Electronics;3;737.67;2213.01;53;Male;Houston
+T0371;C099;16.1.2023 10:00;P067;Smartwatch;Home Appliances;3;862.98;2588.94;42;Female;Houston
+T0372;C147;16.1.2023 11:00;P007;Laptop;Electronics;4;961.22;3844.88;49;Female;Phoenix
+T0373;C304;16.1.2023 12:00;P051;Smartwatch;Accessories;2;1048.52;2097.04;50;Female;Los Angeles
+T0374;C208;16.1.2023 13:00;P072;Monitor;Accessories;2;417.24;834.48;62;Male;Los Angeles
+T0375;C131;16.1.2023 14:00;P042;Smartphone;Accessories;2;64.47;128.94;53;Male;New York
+T0376;C404;16.1.2023 15:00;P064;Headphones;Electronics;4;1098.99;4395.96;37;Male;Boston
+T0377;C152;16.1.2023 16:00;P015;Laptop;Accessories;4;826.7;3306.8;35;Male;Los Angeles
+T0378;C054;16.1.2023 17:00;P029;Tablet;Electronics;2;1262.37;2524.74;55;Female;New York
+T0379;C120;16.1.2023 18:00;P033;Camera;Home Appliances;4;1241.01;4964.04;20;Male;Chicago
+T0380;C161;16.1.2023 19:00;P094;Monitor;Electronics;4;1272.82;5091.28;40;Male;Chicago
+T0381;C408;16.1.2023 20:00;P027;Laptop;Home Appliances;4;753.39;3013.56;49;Female;Chicago
+T0382;C116;16.1.2023 21:00;P036;Tablet;Electronics;2;533.76;1067.52;62;Female;Miami
+T0383;C075;16.1.2023 22:00;P029;Camera;Home Appliances;2;1197.76;2395.52;33;Female;Los Angeles
+T0384;C113;16.1.2023 23:00;P038;Camera;Accessories;2;704.38;1408.76;22;Male;Miami
+T0385;C456;17.1.2023 0:00;P057;Laptop;Home Appliances;4;315.99;1263.96;21;Female;Boston
+T0386;C420;17.1.2023 1:00;P097;Monitor;Accessories;2;1289.71;2579.42;38;Female;Los Angeles
+T0387;C422;17.1.2023 2:00;P027;Smartwatch;Accessories;4;1329.71;5318.84;57;Male;New York
+T0388;C104;17.1.2023 3:00;P055;Smartwatch;Home Appliances;1;726.15;726.15;68;Male;Miami
+T0389;C340;17.1.2023 4:00;P033;Camera;Electronics;4;159.76;639.04;31;Female;Miami
+T0390;C254;17.1.2023 5:00;P068;Smartwatch;Electronics;3;612.35;1837.05;56;Male;Boston
+T0391;C227;17.1.2023 6:00;P086;Smartphone;Electronics;2;1215.13;2430.26;48;Female;Miami
+T0392;C112;17.1.2023 7:00;P066;Camera;Electronics;2;1357.57;2715.14;31;Female;Houston
+T0393;C473;17.1.2023 8:00;P010;Camera;Electronics;3;345.04;1035.12;23;Male;New York
+T0394;C099;17.1.2023 9:00;P005;Tablet;Accessories;4;147.11;588.44;29;Female;Chicago
+T0395;C153;17.1.2023 10:00;P074;Smartwatch;Electronics;1;1322.16;1322.16;33;Male;New York
+T0396;C349;17.1.2023 11:00;P097;Monitor;Accessories;3;614.64;1843.92;34;Male;Houston
+T0397;C402;17.1.2023 12:00;P038;Camera;Accessories;3;835.55;2506.65;62;Male;Boston
+T0398;C384;17.1.2023 13:00;P013;Monitor;Accessories;4;1453.7;5814.8;40;Female;Boston
+T0399;C366;17.1.2023 14:00;P031;Smartphone;Home Appliances;2;146.52;293.04;31;Male;Los Angeles
+T0400;C338;17.1.2023 15:00;P047;Tablet;Home Appliances;4;990.06;3960.24;24;Male;New York
+T0401;C194;17.1.2023 16:00;P100;Laptop;Accessories;3;157.45;472.35;63;Female;Boston
+T0402;C310;17.1.2023 17:00;P088;Monitor;Home Appliances;3;594.43;1783.29;49;Female;Miami
+T0403;C163;17.1.2023 18:00;P052;Camera;Electronics;2;1215.53;2431.06;32;Female;Boston
+T0404;C208;17.1.2023 19:00;P056;Smartphone;Electronics;2;678.53;1357.06;61;Female;Boston
+T0405;C445;17.1.2023 20:00;P015;Headphones;Accessories;2;1495.91;2991.82;34;Male;Boston
+T0406;C169;17.1.2023 21:00;P029;Smartphone;Electronics;4;860.64;3442.56;58;Male;Boston
+T0407;C484;17.1.2023 22:00;P008;Smartphone;Accessories;2;515.69;1031.38;64;Male;Chicago
+T0408;C161;17.1.2023 23:00;P005;Tablet;Accessories;3;369.16;1107.48;61;Female;Chicago
+T0409;C068;18.1.2023 0:00;P029;Laptop;Electronics;3;558.25;1674.75;51;Female;Los Angeles
+T0410;C289;18.1.2023 1:00;P047;Headphones;Home Appliances;1;590.17;590.17;22;Male;Boston
+T0411;C398;18.1.2023 2:00;P068;Smartwatch;Electronics;4;149.63;598.52;62;Female;New York
+T0412;C277;18.1.2023 3:00;P076;Smartwatch;Electronics;1;585.88;585.88;44;Female;Houston
+T0413;C304;18.1.2023 4:00;P045;Monitor;Accessories;3;723.15;2169.45;69;Male;Los Angeles
+T0414;C404;18.1.2023 5:00;P002;Smartphone;Accessories;1;1097.97;1097.97;40;Male;New York
+T0415;C384;18.1.2023 6:00;P027;Tablet;Accessories;3;1002.26;3006.78;57;Female;Boston
+T0416;C392;18.1.2023 7:00;P095;Tablet;Accessories;1;1077.71;1077.71;31;Female;Phoenix
+T0417;C135;18.1.2023 8:00;P036;Smartwatch;Home Appliances;2;62.13;124.26;32;Female;Boston
+T0418;C195;18.1.2023 9:00;P036;Monitor;Home Appliances;1;365.62;365.62;60;Male;Chicago
+T0419;C401;18.1.2023 10:00;P026;Monitor;Home Appliances;2;1009.44;2018.88;50;Male;Houston
+T0420;C128;18.1.2023 11:00;P043;Monitor;Accessories;2;751.78;1503.56;48;Male;Miami
+T0421;C033;18.1.2023 12:00;P027;Headphones;Accessories;4;57.7;230.8;52;Male;Houston
+T0422;C176;18.1.2023 13:00;P069;Laptop;Accessories;2;1216.52;2433.04;34;Male;Miami
+T0423;C460;18.1.2023 14:00;P020;Headphones;Home Appliances;2;1170.57;2341.14;45;Female;Houston
+T0424;C443;18.1.2023 15:00;P011;Camera;Accessories;1;845.21;845.21;36;Female;Chicago
+T0425;C371;18.1.2023 16:00;P074;Camera;Electronics;3;146.37;439.11;63;Female;Miami
+T0426;C470;18.1.2023 17:00;P038;Laptop;Electronics;4;1161.45;4645.8;40;Male;New York
+T0427;C375;18.1.2023 18:00;P006;Smartwatch;Accessories;2;896.38;1792.76;49;Male;Miami
+T0428;C022;18.1.2023 19:00;P072;Laptop;Electronics;4;1183.84;4735.36;57;Male;Los Angeles
+T0429;C238;18.1.2023 20:00;P023;Tablet;Electronics;1;1140.03;1140.03;30;Female;New York
+T0430;C158;18.1.2023 21:00;P047;Camera;Home Appliances;2;1214.35;2428.7;37;Male;Los Angeles
+T0431;C038;18.1.2023 22:00;P090;Smartphone;Accessories;1;801.11;801.11;52;Male;Boston
+T0432;C230;18.1.2023 23:00;P046;Smartphone;Accessories;4;253.47;1013.88;22;Female;Houston
+T0433;C365;19.1.2023 0:00;P012;Smartwatch;Home Appliances;1;1023.18;1023.18;26;Male;New York
+T0434;C051;19.1.2023 1:00;P090;Tablet;Electronics;4;949.69;3798.76;46;Female;Houston
+T0435;C438;19.1.2023 2:00;P013;Headphones;Electronics;1;1126.27;1126.27;23;Male;Boston
+T0436;C264;19.1.2023 3:00;P062;Tablet;Accessories;4;296.33;1185.32;42;Male;Phoenix
+T0437;C283;19.1.2023 4:00;P082;Smartphone;Electronics;3;332.71;998.13;48;Female;Houston
+T0438;C027;19.1.2023 5:00;P089;Smartphone;Home Appliances;1;1341.09;1341.09;39;Female;Boston
+T0439;C226;19.1.2023 6:00;P097;Camera;Home Appliances;1;1137.47;1137.47;19;Female;Houston
+T0440;C277;19.1.2023 7:00;P060;Tablet;Accessories;3;1366.93;4100.79;62;Female;Boston
+T0441;C286;19.1.2023 8:00;P043;Tablet;Home Appliances;3;1150.14;3450.42;22;Female;Los Angeles
+T0442;C097;19.1.2023 9:00;P076;Smartphone;Home Appliances;1;915.88;915.88;44;Female;Boston
+T0443;C284;19.1.2023 10:00;P100;Headphones;Accessories;3;998.49;2995.47;42;Male;Miami
+T0444;C367;19.1.2023 11:00;P068;Smartwatch;Home Appliances;2;1339.24;2678.48;25;Male;Phoenix
+T0445;C448;19.1.2023 12:00;P005;Monitor;Home Appliances;4;889.27;3557.08;18;Female;Houston
+T0446;C481;19.1.2023 13:00;P037;Smartwatch;Home Appliances;4;966.97;3867.88;37;Male;Boston
+T0447;C453;19.1.2023 14:00;P072;Tablet;Electronics;4;276.89;1107.56;61;Female;Boston
+T0448;C317;19.1.2023 15:00;P092;Smartwatch;Accessories;2;737.19;1474.38;40;Male;Houston
+T0449;C304;19.1.2023 16:00;P031;Smartphone;Accessories;3;1088.78;3266.34;49;Female;Phoenix
+T0450;C147;19.1.2023 17:00;P009;Smartphone;Accessories;3;442.87;1328.61;28;Male;Phoenix
+T0451;C004;19.1.2023 18:00;P051;Tablet;Electronics;1;343.27;343.27;56;Male;Boston
+T0452;C035;19.1.2023 19:00;P029;Tablet;Electronics;3;505.05;1515.15;64;Male;New York
+T0453;C192;19.1.2023 20:00;P078;Monitor;Accessories;1;400.18;400.18;41;Male;Los Angeles
+T0454;C049;19.1.2023 21:00;P040;Monitor;Electronics;2;361.62;723.24;28;Male;Phoenix
+T0455;C017;19.1.2023 22:00;P041;Camera;Accessories;4;666.03;2664.12;46;Female;Phoenix
+T0456;C172;19.1.2023 23:00;P086;Tablet;Electronics;4;1366.37;5465.48;43;Female;Chicago
+T0457;C220;20.1.2023 0:00;P011;Headphones;Home Appliances;4;785.24;3140.96;33;Female;Miami
+T0458;C158;20.1.2023 1:00;P023;Smartwatch;Home Appliances;3;322.48;967.44;52;Male;Phoenix
+T0459;C477;20.1.2023 2:00;P001;Tablet;Accessories;1;161.61;161.61;37;Female;Los Angeles
+T0460;C046;20.1.2023 3:00;P046;Laptop;Electronics;1;1059.43;1059.43;63;Male;Miami
+T0461;C373;20.1.2023 4:00;P021;Camera;Electronics;2;605.06;1210.12;20;Male;Miami
+T0462;C006;20.1.2023 5:00;P090;Laptop;Home Appliances;3;1241.65;3724.95;18;Male;Houston
+T0463;C099;20.1.2023 6:00;P036;Smartphone;Home Appliances;2;1006.29;2012.58;64;Female;Houston
+T0464;C380;20.1.2023 7:00;P054;Monitor;Electronics;1;1204.55;1204.55;18;Male;Houston
+T0465;C233;20.1.2023 8:00;P087;Smartwatch;Electronics;1;444.32;444.32;34;Female;Houston
+T0466;C037;20.1.2023 9:00;P057;Tablet;Electronics;4;1053.92;4215.68;19;Female;Chicago
+T0467;C280;20.1.2023 10:00;P001;Laptop;Electronics;3;432.89;1298.67;46;Male;Phoenix
+T0468;C349;20.1.2023 11:00;P063;Smartwatch;Electronics;1;1411.65;1411.65;37;Male;Houston
+T0469;C497;20.1.2023 12:00;P054;Smartphone;Electronics;4;972.74;3890.96;23;Female;Boston
+T0470;C302;20.1.2023 13:00;P055;Monitor;Accessories;3;520.54;1561.62;25;Female;New York
+T0471;C181;20.1.2023 14:00;P040;Headphones;Electronics;2;440.79;881.58;46;Female;Houston
+T0472;C095;20.1.2023 15:00;P015;Camera;Home Appliances;3;326.84;980.52;65;Female;Phoenix
+T0473;C099;20.1.2023 16:00;P021;Smartwatch;Accessories;3;1057.23;3171.69;68;Female;Houston
+T0474;C188;20.1.2023 17:00;P047;Smartwatch;Electronics;1;367.14;367.14;50;Female;Chicago
+T0475;C481;20.1.2023 18:00;P073;Headphones;Home Appliances;1;913.19;913.19;20;Male;Los Angeles
+T0476;C116;20.1.2023 19:00;P053;Smartwatch;Accessories;3;433.72;1301.16;52;Female;Los Angeles
+T0477;C191;20.1.2023 20:00;P009;Smartphone;Home Appliances;1;1009.85;1009.85;22;Female;Phoenix
+T0478;C253;20.1.2023 21:00;P074;Smartphone;Electronics;1;1231.66;1231.66;44;Female;Boston
+T0479;C469;20.1.2023 22:00;P052;Headphones;Electronics;1;1178.14;1178.14;61;Female;Los Angeles
+T0480;C416;20.1.2023 23:00;P057;Camera;Electronics;4;1153.23;4612.92;29;Male;Los Angeles
+T0481;C471;21.1.2023 0:00;P026;Tablet;Electronics;4;322.2;1288.8;37;Male;New York
+T0482;C161;21.1.2023 1:00;P041;Laptop;Accessories;3;178.16;534.48;62;Female;Phoenix
+T0483;C256;21.1.2023 2:00;P035;Tablet;Accessories;1;1063.48;1063.48;37;Female;Boston
+T0484;C323;21.1.2023 3:00;P063;Smartwatch;Home Appliances;4;584.1;2336.4;26;Female;Phoenix
+T0485;C128;21.1.2023 4:00;P025;Laptop;Electronics;3;676.9;2030.7;56;Male;Los Angeles
+T0486;C018;21.1.2023 5:00;P090;Headphones;Home Appliances;1;95.17;95.17;21;Male;Los Angeles
+T0487;C281;21.1.2023 6:00;P075;Headphones;Accessories;2;426.39;852.78;68;Male;Los Angeles
+T0488;C490;21.1.2023 7:00;P038;Camera;Electronics;1;98.83;98.83;36;Male;Miami
+T0489;C223;21.1.2023 8:00;P002;Laptop;Electronics;1;1324.82;1324.82;55;Male;Chicago
+T0490;C054;21.1.2023 9:00;P007;Smartphone;Accessories;4;402.93;1611.72;44;Male;Houston
+T0491;C058;21.1.2023 10:00;P082;Laptop;Accessories;3;858.14;2574.42;62;Female;Chicago
+T0492;C323;21.1.2023 11:00;P091;Smartwatch;Accessories;3;106.52;319.56;60;Male;Phoenix
+T0493;C360;21.1.2023 12:00;P034;Smartphone;Accessories;4;1016.93;4067.72;30;Male;New York
+T0494;C174;21.1.2023 13:00;P091;Monitor;Accessories;1;518.39;518.39;30;Female;Houston
+T0495;C280;21.1.2023 14:00;P017;Monitor;Electronics;2;1351.98;2703.96;39;Male;New York
+T0496;C114;21.1.2023 15:00;P043;Monitor;Accessories;1;1337.77;1337.77;45;Female;Boston
+T0497;C288;21.1.2023 16:00;P059;Headphones;Electronics;1;521.67;521.67;69;Male;Miami
+T0498;C431;21.1.2023 17:00;P051;Laptop;Electronics;2;1356.39;2712.78;64;Female;Phoenix
+T0499;C342;21.1.2023 18:00;P054;Monitor;Accessories;4;1494.43;5977.72;62;Female;Miami
+T0500;C151;21.1.2023 19:00;P024;Tablet;Accessories;3;1246.85;3740.55;39;Female;Phoenix
+T0501;C450;21.1.2023 20:00;P025;Camera;Electronics;4;1275.06;5100.24;60;Female;New York
+T0502;C127;21.1.2023 21:00;P071;Tablet;Accessories;4;411.06;1644.24;36;Female;New York
+T0503;C155;21.1.2023 22:00;P052;Monitor;Accessories;1;886.22;886.22;25;Male;New York
+T0504;C490;21.1.2023 23:00;P070;Camera;Accessories;3;147.52;442.56;69;Male;Phoenix
+T0505;C386;22.1.2023 0:00;P088;Smartwatch;Home Appliances;3;187.63;562.89;25;Female;Los Angeles
+T0506;C474;22.1.2023 1:00;P033;Tablet;Electronics;4;1498.39;5993.56;59;Female;New York
+T0507;C273;22.1.2023 2:00;P049;Laptop;Home Appliances;2;523.63;1047.26;43;Female;Miami
+T0508;C104;22.1.2023 3:00;P029;Laptop;Accessories;4;1134.87;4539.48;65;Male;Boston
+T0509;C417;22.1.2023 4:00;P063;Tablet;Home Appliances;2;1219.66;2439.32;68;Female;Houston
+T0510;C393;22.1.2023 5:00;P022;Monitor;Accessories;3;1294.13;3882.39;43;Female;Phoenix
+T0511;C299;22.1.2023 6:00;P026;Laptop;Home Appliances;4;1496.56;5986.24;40;Female;Miami
+T0512;C246;22.1.2023 7:00;P028;Smartwatch;Accessories;1;400.17;400.17;60;Female;Chicago
+T0513;C176;22.1.2023 8:00;P085;Smartphone;Home Appliances;4;108.51;434.04;30;Male;Boston
+T0514;C039;22.1.2023 9:00;P049;Monitor;Home Appliances;3;646.23;1938.69;45;Female;Chicago
+T0515;C477;22.1.2023 10:00;P071;Smartwatch;Home Appliances;1;238.62;238.62;26;Female;Houston
+T0516;C170;22.1.2023 11:00;P081;Camera;Electronics;1;82.52;82.52;37;Male;Los Angeles
+T0517;C247;22.1.2023 12:00;P084;Smartwatch;Home Appliances;2;572.62;1145.24;36;Female;New York
+T0518;C026;22.1.2023 13:00;P049;Monitor;Electronics;1;1186.42;1186.42;65;Female;Phoenix
+T0519;C355;22.1.2023 14:00;P020;Camera;Accessories;1;870.96;870.96;56;Male;Miami
+T0520;C306;22.1.2023 15:00;P086;Monitor;Home Appliances;4;503.53;2014.12;68;Male;New York
+T0521;C409;22.1.2023 16:00;P092;Laptop;Accessories;3;998.8;2996.4;29;Male;Miami
+T0522;C408;22.1.2023 17:00;P063;Smartphone;Accessories;2;386.43;772.86;32;Female;Phoenix
+T0523;C013;22.1.2023 18:00;P061;Monitor;Home Appliances;4;70.85;283.4;48;Female;Chicago
+T0524;C316;22.1.2023 19:00;P049;Monitor;Electronics;1;1158.31;1158.31;31;Male;New York
+T0525;C391;22.1.2023 20:00;P071;Laptop;Home Appliances;1;954.43;954.43;28;Male;Houston
+T0526;C313;22.1.2023 21:00;P001;Headphones;Accessories;2;1155.34;2310.68;43;Male;Los Angeles
+T0527;C036;22.1.2023 22:00;P096;Laptop;Accessories;3;106.46;319.38;59;Female;Houston
+T0528;C173;22.1.2023 23:00;P013;Camera;Home Appliances;2;1263.82;2527.64;44;Female;Los Angeles
+T0529;C020;23.1.2023 0:00;P094;Laptop;Electronics;4;948.31;3793.24;28;Male;Boston
+T0530;C321;23.1.2023 1:00;P087;Laptop;Electronics;2;866.92;1733.84;55;Female;Miami
+T0531;C264;23.1.2023 2:00;P051;Smartphone;Accessories;1;955.69;955.69;51;Male;New York
+T0532;C494;23.1.2023 3:00;P056;Laptop;Accessories;4;1303.43;5213.72;60;Female;New York
+T0533;C400;23.1.2023 4:00;P083;Monitor;Electronics;1;901.06;901.06;36;Female;Boston
+T0534;C142;23.1.2023 5:00;P062;Smartphone;Home Appliances;3;892.38;2677.14;23;Female;Los Angeles
+T0535;C460;23.1.2023 6:00;P032;Tablet;Accessories;1;1486.48;1486.48;63;Female;Chicago
+T0536;C371;23.1.2023 7:00;P030;Headphones;Electronics;1;1147.26;1147.26;69;Male;Phoenix
+T0537;C471;23.1.2023 8:00;P029;Smartphone;Accessories;2;691.33;1382.66;55;Female;Houston
+T0538;C143;23.1.2023 9:00;P049;Camera;Home Appliances;1;1075.73;1075.73;66;Female;Boston
+T0539;C092;23.1.2023 10:00;P045;Tablet;Electronics;4;614.38;2457.52;59;Male;Miami
+T0540;C354;23.1.2023 11:00;P093;Smartphone;Accessories;4;381.87;1527.48;45;Female;Boston
+T0541;C322;23.1.2023 12:00;P030;Smartphone;Home Appliances;3;915.44;2746.32;18;Male;Houston
+T0542;C288;23.1.2023 13:00;P016;Headphones;Accessories;4;1395.86;5583.44;52;Male;Houston
+T0543;C215;23.1.2023 14:00;P040;Monitor;Home Appliances;2;1397.25;2794.5;57;Female;Miami
+T0544;C447;23.1.2023 15:00;P019;Camera;Home Appliances;3;545.76;1637.28;25;Female;Miami
+T0545;C342;23.1.2023 16:00;P018;Smartwatch;Electronics;4;815.13;3260.52;69;Male;New York
+T0546;C051;23.1.2023 17:00;P001;Smartwatch;Home Appliances;2;356.87;713.74;64;Male;Houston
+T0547;C153;23.1.2023 18:00;P078;Smartphone;Accessories;4;1493.67;5974.68;24;Male;Phoenix
+T0548;C186;23.1.2023 19:00;P047;Laptop;Home Appliances;4;1472.62;5890.48;28;Female;Phoenix
+T0549;C063;23.1.2023 20:00;P066;Camera;Home Appliances;1;991.79;991.79;56;Male;Los Angeles
+T0550;C190;23.1.2023 21:00;P092;Tablet;Electronics;4;1216.4;4865.6;21;Male;Boston
+T0551;C125;23.1.2023 22:00;P094;Laptop;Home Appliances;4;1086.9;4347.6;42;Male;Miami
+T0552;C150;23.1.2023 23:00;P038;Laptop;Home Appliances;2;910.08;1820.16;29;Female;New York
+T0553;C314;24.1.2023 0:00;P051;Camera;Accessories;2;127.35;254.7;43;Male;Phoenix
+T0554;C058;24.1.2023 1:00;P063;Monitor;Electronics;1;709.41;709.41;55;Female;Chicago
+T0555;C342;24.1.2023 2:00;P004;Smartphone;Electronics;4;1028.44;4113.76;63;Female;New York
+T0556;C305;24.1.2023 3:00;P001;Smartphone;Electronics;1;1032.42;1032.42;29;Male;New York
+T0557;C180;24.1.2023 4:00;P008;Smartphone;Home Appliances;4;591.03;2364.12;60;Female;Phoenix
+T0558;C170;24.1.2023 5:00;P029;Smartphone;Electronics;3;1415.45;4246.35;68;Male;Chicago
+T0559;C326;24.1.2023 6:00;P055;Smartwatch;Home Appliances;3;292.67;878.01;54;Female;Los Angeles
+T0560;C271;24.1.2023 7:00;P003;Smartphone;Home Appliances;1;775.52;775.52;63;Female;Phoenix
+T0561;C054;24.1.2023 8:00;P032;Smartwatch;Accessories;1;1051.78;1051.78;41;Male;Chicago
+T0562;C491;24.1.2023 9:00;P010;Smartwatch;Accessories;1;1060.85;1060.85;33;Male;New York
+T0563;C444;24.1.2023 10:00;P074;Monitor;Accessories;2;990.53;1981.06;30;Male;Chicago
+T0564;C101;24.1.2023 11:00;P083;Smartphone;Accessories;2;449.17;898.34;42;Female;New York
+T0565;C481;24.1.2023 12:00;P034;Headphones;Accessories;2;276.5;553;69;Female;Boston
+T0566;C264;24.1.2023 13:00;P097;Tablet;Home Appliances;1;972.11;972.11;21;Male;Phoenix
+T0567;C053;24.1.2023 14:00;P087;Laptop;Home Appliances;4;918.99;3675.96;28;Male;Miami
+T0568;C060;24.1.2023 15:00;P055;Smartwatch;Electronics;3;310.07;930.21;49;Female;Phoenix
+T0569;C492;24.1.2023 16:00;P092;Camera;Home Appliances;1;1072.45;1072.45;66;Female;Boston
+T0570;C108;24.1.2023 17:00;P032;Camera;Home Appliances;2;710;1420;24;Female;Houston
+T0571;C005;24.1.2023 18:00;P050;Tablet;Accessories;2;1018.25;2036.5;63;Male;Houston
+T0572;C103;24.1.2023 19:00;P007;Camera;Home Appliances;1;1264.18;1264.18;28;Female;Houston
+T0573;C196;24.1.2023 20:00;P093;Headphones;Accessories;1;296.11;296.11;45;Male;Phoenix
+T0574;C262;24.1.2023 21:00;P008;Camera;Electronics;2;77.76;155.52;58;Female;Los Angeles
+T0575;C365;24.1.2023 22:00;P065;Laptop;Electronics;4;1179.7;4718.8;40;Female;Phoenix
+T0576;C480;24.1.2023 23:00;P057;Laptop;Home Appliances;2;934.06;1868.12;62;Male;Boston
+T0577;C372;25.1.2023 0:00;P067;Smartwatch;Electronics;2;1064.48;2128.96;40;Male;Boston
+T0578;C350;25.1.2023 1:00;P088;Smartphone;Home Appliances;1;1265.32;1265.32;67;Male;Miami
+T0579;C047;25.1.2023 2:00;P087;Monitor;Electronics;4;1214.08;4856.32;45;Female;Chicago
+T0580;C355;25.1.2023 3:00;P059;Headphones;Accessories;2;1443.33;2886.66;60;Female;Phoenix
+T0581;C311;25.1.2023 4:00;P072;Smartwatch;Accessories;2;827.11;1654.22;64;Female;Phoenix
+T0582;C424;25.1.2023 5:00;P054;Headphones;Accessories;3;758.32;2274.96;43;Male;New York
+T0583;C308;25.1.2023 6:00;P067;Smartphone;Accessories;1;632.74;632.74;42;Female;Boston
+T0584;C144;25.1.2023 7:00;P051;Camera;Home Appliances;3;272.85;818.55;46;Male;New York
+T0585;C269;25.1.2023 8:00;P097;Camera;Electronics;3;880.28;2640.84;36;Male;New York
+T0586;C370;25.1.2023 9:00;P092;Monitor;Home Appliances;2;451.67;903.34;50;Male;Phoenix
+T0587;C124;25.1.2023 10:00;P008;Smartphone;Accessories;1;1385.9;1385.9;53;Female;Los Angeles
+T0588;C106;25.1.2023 11:00;P034;Smartwatch;Home Appliances;4;895.63;3582.52;31;Female;Chicago
+T0589;C158;25.1.2023 12:00;P035;Monitor;Electronics;2;909.62;1819.24;31;Male;Chicago
+T0590;C147;25.1.2023 13:00;P096;Smartphone;Home Appliances;4;564.64;2258.56;52;Female;Boston
+T0591;C145;25.1.2023 14:00;P088;Tablet;Electronics;4;125.38;501.52;47;Male;Miami
+T0592;C120;25.1.2023 15:00;P078;Laptop;Home Appliances;1;96.03;96.03;45;Male;Boston
+T0593;C319;25.1.2023 16:00;P032;Monitor;Electronics;3;663.84;1991.52;34;Female;Los Angeles
+T0594;C275;25.1.2023 17:00;P046;Monitor;Electronics;1;172.62;172.62;20;Male;Los Angeles
+T0595;C092;25.1.2023 18:00;P016;Smartwatch;Accessories;4;929.93;3719.72;33;Male;Chicago
+T0596;C058;25.1.2023 19:00;P068;Headphones;Electronics;2;1327.41;2654.82;63;Female;Houston
+T0597;C439;25.1.2023 20:00;P037;Tablet;Accessories;4;1330.23;5320.92;47;Male;New York
+T0598;C346;25.1.2023 21:00;P054;Smartwatch;Accessories;2;1005.62;2011.24;69;Male;New York
+T0599;C229;25.1.2023 22:00;P085;Smartphone;Accessories;2;356.29;712.58;46;Male;Chicago
+T0600;C474;25.1.2023 23:00;P014;Smartphone;Home Appliances;1;1301.35;1301.35;62;Male;Boston
+T0601;C117;26.1.2023 0:00;P095;Smartphone;Home Appliances;4;1334.84;5339.36;32;Male;Los Angeles
+T0602;C318;26.1.2023 1:00;P055;Smartphone;Home Appliances;3;335.15;1005.45;63;Male;Boston
+T0603;C279;26.1.2023 2:00;P048;Headphones;Home Appliances;4;1119.27;4477.08;42;Male;Miami
+T0604;C127;26.1.2023 3:00;P082;Tablet;Electronics;4;465.45;1861.8;68;Female;Houston
+T0605;C393;26.1.2023 4:00;P007;Camera;Electronics;3;1213.83;3641.49;55;Female;Chicago
+T0606;C396;26.1.2023 5:00;P074;Laptop;Home Appliances;1;1495.99;1495.99;59;Male;New York
+T0607;C129;26.1.2023 6:00;P007;Headphones;Electronics;4;93.54;374.16;64;Male;Phoenix
+T0608;C058;26.1.2023 7:00;P033;Headphones;Electronics;4;1351.18;5404.72;69;Female;Boston
+T0609;C122;26.1.2023 8:00;P023;Camera;Accessories;2;952.81;1905.62;55;Female;Los Angeles
+T0610;C001;26.1.2023 9:00;P085;Camera;Accessories;4;1461.4;5845.6;40;Female;Phoenix
+T0611;C239;26.1.2023 10:00;P019;Laptop;Accessories;3;724.26;2172.78;42;Female;Miami
+T0612;C290;26.1.2023 11:00;P019;Laptop;Accessories;2;1278.71;2557.42;59;Female;Chicago
+T0613;C096;26.1.2023 12:00;P036;Camera;Electronics;1;140.47;140.47;24;Male;Boston
+T0614;C126;26.1.2023 13:00;P029;Smartphone;Home Appliances;2;536.15;1072.3;39;Female;New York
+T0615;C118;26.1.2023 14:00;P060;Headphones;Electronics;3;147.17;441.51;34;Female;Boston
+T0616;C048;26.1.2023 15:00;P082;Smartwatch;Electronics;3;1464.25;4392.75;35;Female;Houston
+T0617;C089;26.1.2023 16:00;P002;Laptop;Electronics;2;1234.61;2469.22;66;Male;Phoenix
+T0618;C488;26.1.2023 17:00;P001;Laptop;Accessories;1;1286.19;1286.19;58;Male;Houston
+T0619;C237;26.1.2023 18:00;P047;Camera;Accessories;2;1410.05;2820.1;27;Male;Miami
+T0620;C373;26.1.2023 19:00;P069;Tablet;Accessories;1;173.4;173.4;27;Male;New York
+T0621;C385;26.1.2023 20:00;P020;Smartwatch;Home Appliances;2;609.12;1218.24;24;Male;Phoenix
+T0622;C272;26.1.2023 21:00;P011;Smartwatch;Electronics;3;153;459;65;Male;Miami
+T0623;C189;26.1.2023 22:00;P002;Laptop;Home Appliances;4;355.65;1422.6;67;Female;Houston
+T0624;C487;26.1.2023 23:00;P067;Smartphone;Accessories;4;382.58;1530.32;55;Male;Houston
+T0625;C192;27.1.2023 0:00;P087;Tablet;Home Appliances;1;730.21;730.21;44;Male;Phoenix
+T0626;C447;27.1.2023 1:00;P012;Smartwatch;Electronics;1;439.42;439.42;69;Female;New York
+T0627;C069;27.1.2023 2:00;P020;Laptop;Electronics;1;196.42;196.42;50;Male;Houston
+T0628;C278;27.1.2023 3:00;P005;Smartwatch;Accessories;3;292.86;878.58;18;Female;Chicago
+T0629;C349;27.1.2023 4:00;P037;Monitor;Accessories;2;263.55;527.1;61;Female;Miami
+T0630;C247;27.1.2023 5:00;P038;Tablet;Home Appliances;3;1460.96;4382.88;51;Male;Phoenix
+T0631;C451;27.1.2023 6:00;P094;Tablet;Accessories;4;1150.97;4603.88;21;Female;Los Angeles
+T0632;C076;27.1.2023 7:00;P009;Monitor;Accessories;1;1453.25;1453.25;34;Female;Los Angeles
+T0633;C154;27.1.2023 8:00;P098;Headphones;Electronics;2;687.62;1375.24;21;Female;New York
+T0634;C144;27.1.2023 9:00;P053;Monitor;Accessories;4;453.63;1814.52;60;Female;Chicago
+T0635;C435;27.1.2023 10:00;P044;Camera;Accessories;4;1207.53;4830.12;43;Male;Houston
+T0636;C485;27.1.2023 11:00;P099;Camera;Electronics;4;523.07;2092.28;21;Female;Los Angeles
+T0637;C086;27.1.2023 12:00;P086;Laptop;Electronics;3;484.11;1452.33;18;Male;New York
+T0638;C185;27.1.2023 13:00;P024;Tablet;Home Appliances;1;387.13;387.13;24;Female;Miami
+T0639;C285;27.1.2023 14:00;P081;Headphones;Accessories;4;238.03;952.12;47;Female;Chicago
+T0640;C462;27.1.2023 15:00;P074;Headphones;Electronics;1;421.87;421.87;67;Female;Chicago
+T0641;C220;27.1.2023 16:00;P030;Smartwatch;Home Appliances;3;565.21;1695.63;26;Male;Boston
+T0642;C069;27.1.2023 17:00;P059;Smartwatch;Home Appliances;4;1027.29;4109.16;52;Male;New York
+T0643;C047;27.1.2023 18:00;P087;Monitor;Accessories;3;140.72;422.16;25;Male;New York
+T0644;C497;27.1.2023 19:00;P096;Headphones;Accessories;3;355.24;1065.72;41;Female;Boston
+T0645;C094;27.1.2023 20:00;P081;Monitor;Home Appliances;1;1223.08;1223.08;36;Female;Houston
+T0646;C238;27.1.2023 21:00;P081;Monitor;Electronics;4;263.04;1052.16;53;Female;New York
+T0647;C446;27.1.2023 22:00;P014;Smartwatch;Home Appliances;3;546.84;1640.52;67;Female;Boston
+T0648;C500;27.1.2023 23:00;P009;Tablet;Accessories;4;1303.76;5215.04;69;Male;Houston
+T0649;C453;28.1.2023 0:00;P040;Monitor;Electronics;1;274.64;274.64;60;Female;Houston
+T0650;C204;28.1.2023 1:00;P066;Smartphone;Electronics;3;169.97;509.91;44;Male;Phoenix
+T0651;C400;28.1.2023 2:00;P025;Tablet;Home Appliances;1;752.58;752.58;49;Female;Chicago
+T0652;C218;28.1.2023 3:00;P073;Headphones;Accessories;4;488.51;1954.04;31;Male;Miami
+T0653;C474;28.1.2023 4:00;P022;Headphones;Home Appliances;4;866.94;3467.76;35;Male;Chicago
+T0654;C432;28.1.2023 5:00;P004;Monitor;Home Appliances;1;1215.52;1215.52;45;Female;Chicago
+T0655;C341;28.1.2023 6:00;P026;Tablet;Home Appliances;2;248.87;497.74;46;Female;Phoenix
+T0656;C039;28.1.2023 7:00;P058;Smartwatch;Electronics;3;892.01;2676.03;33;Male;Houston
+T0657;C100;28.1.2023 8:00;P029;Smartwatch;Electronics;4;782.99;3131.96;52;Female;Houston
+T0658;C289;28.1.2023 9:00;P098;Camera;Accessories;4;258.91;1035.64;64;Female;New York
+T0659;C254;28.1.2023 10:00;P087;Headphones;Accessories;3;954.8;2864.4;48;Male;Phoenix
+T0660;C222;28.1.2023 11:00;P037;Laptop;Home Appliances;1;446.78;446.78;21;Male;New York
+T0661;C357;28.1.2023 12:00;P075;Camera;Home Appliances;1;757.36;757.36;54;Male;Phoenix
+T0662;C023;28.1.2023 13:00;P070;Smartwatch;Home Appliances;1;169.29;169.29;34;Male;New York
+T0663;C250;28.1.2023 14:00;P018;Tablet;Accessories;2;716.4;1432.8;56;Female;Los Angeles
+T0664;C010;28.1.2023 15:00;P085;Smartwatch;Electronics;2;494.37;988.74;65;Male;Boston
+T0665;C246;28.1.2023 16:00;P042;Tablet;Electronics;4;1242.45;4969.8;63;Male;Chicago
+T0666;C325;28.1.2023 17:00;P100;Camera;Home Appliances;1;132.62;132.62;43;Male;Chicago
+T0667;C100;28.1.2023 18:00;P041;Headphones;Home Appliances;3;656.98;1970.94;65;Female;Miami
+T0668;C290;28.1.2023 19:00;P038;Smartwatch;Home Appliances;4;714.73;2858.92;56;Male;Boston
+T0669;C180;28.1.2023 20:00;P034;Monitor;Home Appliances;3;1101.26;3303.78;58;Female;Houston
+T0670;C223;28.1.2023 21:00;P017;Tablet;Accessories;4;882.72;3530.88;21;Male;Miami
+T0671;C394;28.1.2023 22:00;P037;Headphones;Electronics;2;1017.46;2034.92;47;Male;Los Angeles
+T0672;C250;28.1.2023 23:00;P025;Laptop;Home Appliances;4;1176.72;4706.88;47;Female;Miami
+T0673;C147;29.1.2023 0:00;P076;Tablet;Accessories;2;1300.19;2600.38;39;Male;Chicago
+T0674;C442;29.1.2023 1:00;P087;Camera;Home Appliances;4;505.12;2020.48;28;Male;Houston
+T0675;C096;29.1.2023 2:00;P086;Laptop;Home Appliances;1;830.13;830.13;19;Female;Los Angeles
+T0676;C257;29.1.2023 3:00;P085;Laptop;Electronics;3;1268.16;3804.48;61;Male;Chicago
+T0677;C325;29.1.2023 4:00;P027;Smartphone;Home Appliances;1;1484.7;1484.7;29;Male;Boston
+T0678;C493;29.1.2023 5:00;P057;Smartwatch;Electronics;4;1339.8;5359.2;47;Male;New York
+T0679;C004;29.1.2023 6:00;P031;Tablet;Electronics;4;588.63;2354.52;53;Male;Phoenix
+T0680;C016;29.1.2023 7:00;P006;Laptop;Electronics;4;332.99;1331.96;35;Female;Los Angeles
+T0681;C280;29.1.2023 8:00;P091;Smartphone;Accessories;2;759.62;1519.24;43;Male;Houston
+T0682;C336;29.1.2023 9:00;P040;Camera;Accessories;3;1125.38;3376.14;24;Female;Miami
+T0683;C247;29.1.2023 10:00;P098;Headphones;Electronics;3;764.23;2292.69;18;Male;Boston
+T0684;C258;29.1.2023 11:00;P012;Monitor;Home Appliances;4;750.61;3002.44;43;Female;Miami
+T0685;C497;29.1.2023 12:00;P053;Monitor;Electronics;4;1265.43;5061.72;40;Male;Los Angeles
+T0686;C476;29.1.2023 13:00;P071;Tablet;Home Appliances;2;574.04;1148.08;43;Female;Boston
+T0687;C384;29.1.2023 14:00;P010;Laptop;Electronics;1;1296.7;1296.7;62;Male;Houston
+T0688;C160;29.1.2023 15:00;P045;Monitor;Home Appliances;1;639.87;639.87;23;Female;Los Angeles
+T0689;C475;29.1.2023 16:00;P017;Smartwatch;Accessories;3;525.94;1577.82;23;Female;Houston
+T0690;C340;29.1.2023 17:00;P026;Monitor;Home Appliances;2;708.29;1416.58;61;Male;Miami
+T0691;C152;29.1.2023 18:00;P085;Monitor;Electronics;4;1155.55;4622.2;25;Female;Chicago
+T0692;C396;29.1.2023 19:00;P092;Monitor;Accessories;3;232.7;698.1;41;Male;Boston
+T0693;C178;29.1.2023 20:00;P062;Smartphone;Home Appliances;2;334.81;669.62;39;Male;New York
+T0694;C163;29.1.2023 21:00;P046;Laptop;Home Appliances;1;1429.59;1429.59;36;Male;Chicago
+T0695;C380;29.1.2023 22:00;P064;Smartwatch;Home Appliances;2;304.46;608.92;54;Male;New York
+T0696;C033;29.1.2023 23:00;P002;Laptop;Home Appliances;1;873.2;873.2;35;Male;Miami
+T0697;C417;30.1.2023 0:00;P054;Tablet;Home Appliances;2;890.01;1780.02;48;Female;Boston
+T0698;C445;30.1.2023 1:00;P065;Tablet;Accessories;3;759.96;2279.88;54;Male;Chicago
+T0699;C179;30.1.2023 2:00;P051;Tablet;Accessories;1;984.88;984.88;47;Male;Chicago
+T0700;C427;30.1.2023 3:00;P053;Camera;Accessories;3;383.25;1149.75;59;Male;Los Angeles
+T0701;C101;30.1.2023 4:00;P036;Monitor;Accessories;3;851.36;2554.08;50;Male;Phoenix
+T0702;C268;30.1.2023 5:00;P026;Camera;Electronics;1;589.65;589.65;27;Male;Miami
+T0703;C323;30.1.2023 6:00;P029;Smartphone;Accessories;1;1009.42;1009.42;54;Male;Houston
+T0704;C065;30.1.2023 7:00;P021;Tablet;Home Appliances;4;254.77;1019.08;29;Female;Miami
+T0705;C417;30.1.2023 8:00;P011;Smartwatch;Home Appliances;4;877.77;3511.08;47;Female;Houston
+T0706;C168;30.1.2023 9:00;P040;Laptop;Accessories;4;318.64;1274.56;44;Male;Boston
+T0707;C330;30.1.2023 10:00;P011;Monitor;Home Appliances;3;454.03;1362.09;56;Female;Houston
+T0708;C043;30.1.2023 11:00;P036;Headphones;Accessories;3;367.13;1101.39;26;Male;New York
+T0709;C044;30.1.2023 12:00;P059;Smartwatch;Home Appliances;4;315.11;1260.44;38;Male;Houston
+T0710;C285;30.1.2023 13:00;P039;Monitor;Electronics;3;1247.28;3741.84;29;Male;Houston
+T0711;C397;30.1.2023 14:00;P099;Camera;Electronics;3;464.28;1392.84;46;Male;Los Angeles
+T0712;C012;30.1.2023 15:00;P054;Camera;Accessories;1;1394.33;1394.33;50;Male;Chicago
+T0713;C095;30.1.2023 16:00;P098;Smartwatch;Accessories;1;1456.39;1456.39;60;Female;Miami
+T0714;C302;30.1.2023 17:00;P055;Camera;Accessories;3;878.33;2634.99;32;Female;Miami
+T0715;C386;30.1.2023 18:00;P024;Tablet;Home Appliances;4;257.35;1029.4;19;Female;Boston
+T0716;C253;30.1.2023 19:00;P022;Smartphone;Accessories;2;593.09;1186.18;69;Female;Boston
+T0717;C499;30.1.2023 20:00;P069;Laptop;Electronics;4;1206.71;4826.84;56;Male;Houston
+T0718;C242;30.1.2023 21:00;P056;Smartphone;Home Appliances;2;582.72;1165.44;61;Female;Phoenix
+T0719;C035;30.1.2023 22:00;P033;Monitor;Accessories;4;176.17;704.68;35;Male;Miami
+T0720;C215;30.1.2023 23:00;P036;Laptop;Home Appliances;1;857.34;857.34;20;Female;Boston
+T0721;C337;31.1.2023 0:00;P020;Laptop;Home Appliances;3;1275.43;3826.29;24;Female;Houston
+T0722;C090;31.1.2023 1:00;P083;Smartphone;Accessories;3;1204.09;3612.27;60;Female;Boston
+T0723;C264;31.1.2023 2:00;P099;Smartwatch;Home Appliances;1;303.93;303.93;35;Female;New York
+T0724;C093;31.1.2023 3:00;P081;Laptop;Electronics;2;1025.51;2051.02;61;Male;New York
+T0725;C410;31.1.2023 4:00;P062;Smartphone;Electronics;2;369.73;739.46;55;Female;Boston
+T0726;C458;31.1.2023 5:00;P098;Laptop;Home Appliances;2;366.4;732.8;54;Female;New York
+T0727;C090;31.1.2023 6:00;P073;Headphones;Accessories;1;1317.4;1317.4;50;Male;Boston
+T0728;C418;31.1.2023 7:00;P026;Smartwatch;Home Appliances;2;412.02;824.04;61;Male;Houston
+T0729;C115;31.1.2023 8:00;P066;Tablet;Electronics;1;431.71;431.71;48;Female;Los Angeles
+T0730;C105;31.1.2023 9:00;P073;Laptop;Home Appliances;4;50.95;203.8;28;Male;Phoenix
+T0731;C391;31.1.2023 10:00;P073;Headphones;Home Appliances;4;1312.47;5249.88;21;Male;Houston
+T0732;C196;31.1.2023 11:00;P040;Tablet;Electronics;1;1199.26;1199.26;35;Male;Los Angeles
+T0733;C314;31.1.2023 12:00;P017;Tablet;Home Appliances;3;959.63;2878.89;21;Female;Los Angeles
+T0734;C114;31.1.2023 13:00;P001;Monitor;Home Appliances;4;1137.89;4551.56;66;Male;Miami
+T0735;C493;31.1.2023 14:00;P089;Laptop;Accessories;2;270.47;540.94;51;Female;Houston
+T0736;C075;31.1.2023 15:00;P061;Smartphone;Accessories;1;714.57;714.57;46;Female;Houston
+T0737;C413;31.1.2023 16:00;P043;Laptop;Electronics;2;559.27;1118.54;41;Female;Boston
+T0738;C376;31.1.2023 17:00;P042;Headphones;Electronics;2;185.98;371.96;39;Female;Los Angeles
+T0739;C420;31.1.2023 18:00;P025;Tablet;Electronics;3;754.89;2264.67;19;Male;Los Angeles
+T0740;C217;31.1.2023 19:00;P039;Laptop;Accessories;2;1385.07;2770.14;61;Female;Los Angeles
+T0741;C277;31.1.2023 20:00;P035;Smartphone;Electronics;3;108.09;324.27;23;Male;Boston
+T0742;C249;31.1.2023 21:00;P003;Monitor;Electronics;4;472.62;1890.48;59;Female;Miami
+T0743;C164;31.1.2023 22:00;P044;Laptop;Electronics;1;350.93;350.93;42;Male;Houston
+T0744;C394;31.1.2023 23:00;P051;Smartwatch;Accessories;2;395.31;790.62;38;Female;Los Angeles
+T0745;C357;1.2.2023 0:00;P094;Monitor;Home Appliances;1;1367.23;1367.23;33;Male;New York
+T0746;C457;1.2.2023 1:00;P098;Smartphone;Electronics;2;728.7;1457.4;48;Female;Houston
+T0747;C408;1.2.2023 2:00;P012;Headphones;Home Appliances;1;726.13;726.13;31;Female;Boston
+T0748;C192;1.2.2023 3:00;P019;Tablet;Electronics;2;1152.83;2305.66;56;Male;Miami
+T0749;C227;1.2.2023 4:00;P044;Laptop;Home Appliances;2;274.01;548.02;45;Female;New York
+T0750;C177;1.2.2023 5:00;P059;Smartphone;Accessories;2;756.53;1513.06;49;Female;Boston
+T0751;C099;1.2.2023 6:00;P049;Monitor;Accessories;2;673.48;1346.96;45;Female;Chicago
+T0752;C496;1.2.2023 7:00;P061;Smartwatch;Electronics;2;915.52;1831.04;68;Male;Houston
+T0753;C036;1.2.2023 8:00;P017;Smartphone;Home Appliances;2;1499.36;2998.72;66;Female;Chicago
+T0754;C466;1.2.2023 9:00;P074;Camera;Accessories;2;1165.7;2331.4;26;Female;Boston
+T0755;C497;1.2.2023 10:00;P057;Smartwatch;Electronics;2;626.91;1253.82;62;Male;Boston
+T0756;C487;1.2.2023 11:00;P055;Monitor;Electronics;2;1249.95;2499.9;39;Male;Boston
+T0757;C096;1.2.2023 12:00;P047;Headphones;Accessories;1;297.53;297.53;49;Male;Los Angeles
+T0758;C152;1.2.2023 13:00;P012;Tablet;Accessories;3;94.17;282.51;22;Male;Miami
+T0759;C151;1.2.2023 14:00;P062;Monitor;Electronics;2;346.45;692.9;40;Male;Los Angeles
+T0760;C190;1.2.2023 15:00;P080;Headphones;Home Appliances;3;543.6;1630.8;22;Female;Miami
+T0761;C224;1.2.2023 16:00;P088;Laptop;Home Appliances;2;790.34;1580.68;59;Female;Phoenix
+T0762;C037;1.2.2023 17:00;P083;Smartphone;Home Appliances;2;941.94;1883.88;49;Female;Los Angeles
+T0763;C268;1.2.2023 18:00;P008;Camera;Electronics;1;1370.38;1370.38;27;Male;Chicago
+T0764;C369;1.2.2023 19:00;P095;Smartwatch;Accessories;4;789.29;3157.16;56;Female;Miami
+T0765;C183;1.2.2023 20:00;P021;Smartwatch;Electronics;4;776.85;3107.4;32;Male;Los Angeles
+T0766;C013;1.2.2023 21:00;P081;Smartphone;Accessories;1;122.85;122.85;24;Male;Houston
+T0767;C279;1.2.2023 22:00;P087;Camera;Home Appliances;3;100.62;301.86;46;Female;Boston
+T0768;C217;1.2.2023 23:00;P080;Smartphone;Home Appliances;4;849.18;3396.72;64;Male;Miami
+T0769;C355;2.2.2023 0:00;P070;Laptop;Accessories;1;685.36;685.36;20;Male;Miami
+T0770;C361;2.2.2023 1:00;P072;Headphones;Accessories;1;1266.81;1266.81;36;Female;Los Angeles
+T0771;C286;2.2.2023 2:00;P025;Monitor;Electronics;4;282.99;1131.96;27;Male;Phoenix
+T0772;C273;2.2.2023 3:00;P082;Smartwatch;Home Appliances;3;86.21;258.63;45;Male;Los Angeles
+T0773;C369;2.2.2023 4:00;P089;Laptop;Electronics;1;701.11;701.11;46;Female;Chicago
+T0774;C062;2.2.2023 5:00;P012;Headphones;Electronics;2;394.34;788.68;32;Male;Chicago
+T0775;C084;2.2.2023 6:00;P015;Laptop;Electronics;3;121.94;365.82;52;Male;Miami
+T0776;C368;2.2.2023 7:00;P059;Camera;Home Appliances;3;1100.67;3302.01;23;Female;Miami
+T0777;C217;2.2.2023 8:00;P026;Smartwatch;Electronics;4;211.81;847.24;29;Female;Los Angeles
+T0778;C342;2.2.2023 9:00;P026;Monitor;Electronics;4;932.06;3728.24;64;Female;Chicago
+T0779;C397;2.2.2023 10:00;P047;Smartphone;Electronics;2;457.52;915.04;55;Female;Chicago
+T0780;C187;2.2.2023 11:00;P032;Smartphone;Electronics;1;301.57;301.57;30;Male;Phoenix
+T0781;C019;2.2.2023 12:00;P010;Headphones;Electronics;4;600.64;2402.56;46;Male;Houston
+T0782;C177;2.2.2023 13:00;P016;Monitor;Electronics;4;1212.1;4848.4;36;Female;Phoenix
+T0783;C100;2.2.2023 14:00;P071;Tablet;Home Appliances;3;618.54;1855.62;20;Male;New York
+T0784;C396;2.2.2023 15:00;P017;Camera;Electronics;4;1138.62;4554.48;25;Male;Boston
+T0785;C445;2.2.2023 16:00;P023;Headphones;Accessories;4;231.96;927.84;25;Female;Phoenix
+T0786;C233;2.2.2023 17:00;P026;Tablet;Electronics;4;1170.52;4682.08;37;Female;Los Angeles
+T0787;C403;2.2.2023 18:00;P085;Laptop;Electronics;4;393.55;1574.2;64;Male;Houston
+T0788;C076;2.2.2023 19:00;P086;Camera;Home Appliances;3;1032.22;3096.66;21;Female;Los Angeles
+T0789;C265;2.2.2023 20:00;P007;Laptop;Home Appliances;2;870.38;1740.76;68;Female;Boston
+T0790;C455;2.2.2023 21:00;P014;Monitor;Accessories;2;1397.26;2794.52;38;Female;New York
+T0791;C284;2.2.2023 22:00;P079;Smartwatch;Accessories;1;611.62;611.62;20;Male;Houston
+T0792;C206;2.2.2023 23:00;P007;Camera;Home Appliances;4;145.94;583.76;62;Female;Miami
+T0793;C223;3.2.2023 0:00;P009;Tablet;Home Appliances;3;77.78;233.34;25;Male;Chicago
+T0794;C384;3.2.2023 1:00;P048;Smartwatch;Electronics;1;1248.94;1248.94;40;Male;Phoenix
+T0795;C052;3.2.2023 2:00;P072;Smartphone;Home Appliances;1;810.87;810.87;33;Male;Los Angeles
+T0796;C339;3.2.2023 3:00;P059;Tablet;Accessories;2;1174.1;2348.2;30;Female;New York
+T0797;C367;3.2.2023 4:00;P087;Headphones;Electronics;3;389.92;1169.76;20;Female;Chicago
+T0798;C144;3.2.2023 5:00;P093;Smartphone;Accessories;3;550.37;1651.11;65;Female;Phoenix
+T0799;C373;3.2.2023 6:00;P082;Smartphone;Electronics;3;93.65;280.95;26;Female;Chicago
+T0800;C069;3.2.2023 7:00;P095;Headphones;Home Appliances;2;1444.16;2888.32;31;Female;Phoenix
+T0801;C099;3.2.2023 8:00;P094;Camera;Accessories;2;1018.41;2036.82;30;Male;Miami
+T0802;C396;3.2.2023 9:00;P039;Smartphone;Electronics;2;1403.15;2806.3;24;Male;Houston
+T0803;C025;3.2.2023 10:00;P099;Monitor;Electronics;2;434.97;869.94;32;Male;Chicago
+T0804;C436;3.2.2023 11:00;P018;Tablet;Home Appliances;2;936.62;1873.24;24;Female;Chicago
+T0805;C379;3.2.2023 12:00;P059;Smartwatch;Home Appliances;4;1033.82;4135.28;55;Male;Chicago
+T0806;C469;3.2.2023 13:00;P017;Smartphone;Home Appliances;4;510.45;2041.8;51;Male;Houston
+T0807;C484;3.2.2023 14:00;P014;Tablet;Accessories;3;1279.76;3839.28;58;Female;New York
+T0808;C053;3.2.2023 15:00;P031;Laptop;Electronics;1;1423.38;1423.38;39;Female;Phoenix
+T0809;C151;3.2.2023 16:00;P024;Tablet;Home Appliances;3;1333.04;3999.12;41;Male;Miami
+T0810;C144;3.2.2023 17:00;P099;Smartwatch;Accessories;1;1121.65;1121.65;66;Male;Chicago
+T0811;C057;3.2.2023 18:00;P060;Tablet;Accessories;2;452.32;904.64;54;Female;Boston
+T0812;C039;3.2.2023 19:00;P045;Headphones;Accessories;1;458.34;458.34;61;Female;Houston
+T0813;C109;3.2.2023 20:00;P098;Smartwatch;Home Appliances;3;1446.87;4340.61;18;Female;New York
+T0814;C181;3.2.2023 21:00;P003;Camera;Home Appliances;3;64.91;194.73;27;Female;Phoenix
+T0815;C042;3.2.2023 22:00;P037;Laptop;Electronics;1;1088.27;1088.27;60;Male;Houston
+T0816;C186;3.2.2023 23:00;P043;Headphones;Electronics;4;1074.06;4296.24;33;Male;Miami
+T0817;C423;4.2.2023 0:00;P040;Camera;Home Appliances;2;952.9;1905.8;63;Female;Miami
+T0818;C398;4.2.2023 1:00;P090;Tablet;Accessories;2;1485.66;2971.32;25;Male;Phoenix
+T0819;C223;4.2.2023 2:00;P055;Smartwatch;Accessories;3;502.23;1506.69;66;Male;Chicago
+T0820;C122;4.2.2023 3:00;P087;Laptop;Accessories;4;542.96;2171.84;42;Female;Miami
+T0821;C133;4.2.2023 4:00;P039;Headphones;Electronics;1;164.46;164.46;67;Male;New York
+T0822;C163;4.2.2023 5:00;P015;Camera;Accessories;2;692.06;1384.12;29;Male;Houston
+T0823;C215;4.2.2023 6:00;P004;Camera;Electronics;4;428.52;1714.08;42;Male;New York
+T0824;C221;4.2.2023 7:00;P093;Laptop;Electronics;2;547.91;1095.82;34;Female;Chicago
+T0825;C235;4.2.2023 8:00;P086;Monitor;Accessories;4;1260.13;5040.52;43;Female;New York
+T0826;C331;4.2.2023 9:00;P025;Tablet;Accessories;4;1406.45;5625.8;63;Male;New York
+T0827;C146;4.2.2023 10:00;P013;Laptop;Home Appliances;3;319.31;957.93;65;Female;Los Angeles
+T0828;C239;4.2.2023 11:00;P082;Camera;Home Appliances;2;590.14;1180.28;31;Female;New York
+T0829;C076;4.2.2023 12:00;P033;Smartphone;Accessories;1;1396.51;1396.51;58;Female;Phoenix
+T0830;C009;4.2.2023 13:00;P016;Headphones;Electronics;3;139.62;418.86;53;Male;Houston
+T0831;C074;4.2.2023 14:00;P042;Laptop;Electronics;3;183.92;551.76;40;Male;Los Angeles
+T0832;C442;4.2.2023 15:00;P066;Monitor;Electronics;1;286.05;286.05;60;Female;Houston
+T0833;C492;4.2.2023 16:00;P055;Camera;Electronics;3;913.06;2739.18;23;Male;Houston
+T0834;C401;4.2.2023 17:00;P099;Tablet;Electronics;4;268.18;1072.72;64;Male;Chicago
+T0835;C253;4.2.2023 18:00;P042;Camera;Home Appliances;4;1453.71;5814.84;22;Male;Chicago
+T0836;C230;4.2.2023 19:00;P034;Tablet;Accessories;2;697.74;1395.48;60;Male;Los Angeles
+T0837;C007;4.2.2023 20:00;P030;Laptop;Home Appliances;2;777.2;1554.4;42;Male;Miami
+T0838;C174;4.2.2023 21:00;P013;Tablet;Electronics;1;407.65;407.65;35;Female;Boston
+T0839;C141;4.2.2023 22:00;P013;Smartwatch;Electronics;2;732.89;1465.78;30;Male;Chicago
+T0840;C168;4.2.2023 23:00;P018;Smartwatch;Electronics;4;1009.77;4039.08;60;Male;Boston
+T0841;C170;5.2.2023 0:00;P032;Smartwatch;Electronics;1;1139.21;1139.21;31;Male;Chicago
+T0842;C393;5.2.2023 1:00;P096;Monitor;Accessories;1;1143.11;1143.11;45;Female;Chicago
+T0843;C434;5.2.2023 2:00;P099;Monitor;Electronics;2;887.94;1775.88;35;Female;Houston
+T0844;C283;5.2.2023 3:00;P039;Smartphone;Accessories;4;1361.32;5445.28;45;Female;Los Angeles
+T0845;C122;5.2.2023 4:00;P046;Monitor;Electronics;1;1235.24;1235.24;68;Male;Houston
+T0846;C194;5.2.2023 5:00;P029;Laptop;Accessories;4;1147.72;4590.88;44;Female;Phoenix
+T0847;C005;5.2.2023 6:00;P062;Camera;Home Appliances;4;130.63;522.52;49;Female;Houston
+T0848;C029;5.2.2023 7:00;P093;Camera;Electronics;4;59.97;239.88;64;Female;Boston
+T0849;C165;5.2.2023 8:00;P062;Smartphone;Accessories;2;358.05;716.1;26;Female;Boston
+T0850;C422;5.2.2023 9:00;P057;Monitor;Home Appliances;3;1012.11;3036.33;57;Male;Phoenix
+T0851;C339;5.2.2023 10:00;P016;Tablet;Electronics;3;646.24;1938.72;49;Female;New York
+T0852;C136;5.2.2023 11:00;P056;Smartphone;Electronics;1;633.49;633.49;37;Female;New York
+T0853;C496;5.2.2023 12:00;P010;Tablet;Electronics;4;1332.65;5330.6;45;Male;Phoenix
+T0854;C365;5.2.2023 13:00;P030;Tablet;Accessories;2;1348.57;2697.14;50;Male;Phoenix
+T0855;C321;5.2.2023 14:00;P025;Headphones;Accessories;4;1368.3;5473.2;21;Female;Houston
+T0856;C342;5.2.2023 15:00;P084;Camera;Home Appliances;4;505.12;2020.48;63;Male;Phoenix
+T0857;C500;5.2.2023 16:00;P005;Smartwatch;Accessories;2;1052.03;2104.06;51;Female;Los Angeles
+T0858;C145;5.2.2023 17:00;P065;Monitor;Accessories;3;443.87;1331.61;65;Male;New York
+T0859;C327;5.2.2023 18:00;P094;Tablet;Electronics;4;326.38;1305.52;20;Male;New York
+T0860;C217;5.2.2023 19:00;P049;Headphones;Electronics;4;317.72;1270.88;43;Female;Miami
+T0861;C301;5.2.2023 20:00;P003;Camera;Electronics;3;546.06;1638.18;25;Male;Phoenix
+T0862;C132;5.2.2023 21:00;P045;Smartwatch;Electronics;2;673.44;1346.88;23;Female;Chicago
+T0863;C292;5.2.2023 22:00;P014;Tablet;Electronics;1;1254.88;1254.88;33;Male;Chicago
+T0864;C070;5.2.2023 23:00;P030;Tablet;Electronics;3;223.84;671.52;41;Female;Phoenix
+T0865;C252;6.2.2023 0:00;P068;Smartphone;Electronics;1;1115.64;1115.64;65;Male;Los Angeles
+T0866;C415;6.2.2023 1:00;P018;Smartphone;Home Appliances;1;820.61;820.61;56;Male;Chicago
+T0867;C275;6.2.2023 2:00;P062;Camera;Home Appliances;3;467.52;1402.56;47;Male;Miami
+T0868;C445;6.2.2023 3:00;P037;Smartwatch;Home Appliances;4;764.59;3058.36;62;Male;Boston
+T0869;C364;6.2.2023 4:00;P025;Tablet;Home Appliances;1;484.92;484.92;30;Male;Phoenix
+T0870;C182;6.2.2023 5:00;P048;Camera;Electronics;1;914.32;914.32;22;Female;Los Angeles
+T0871;C167;6.2.2023 6:00;P065;Camera;Home Appliances;2;679.07;1358.14;42;Male;Los Angeles
+T0872;C091;6.2.2023 7:00;P053;Laptop;Electronics;4;288.39;1153.56;37;Female;Houston
+T0873;C202;6.2.2023 8:00;P079;Monitor;Home Appliances;1;219.05;219.05;35;Female;Los Angeles
+T0874;C346;6.2.2023 9:00;P073;Smartphone;Accessories;2;842.71;1685.42;64;Female;Chicago
+T0875;C019;6.2.2023 10:00;P015;Smartwatch;Home Appliances;4;1358.5;5434;35;Male;Boston
+T0876;C039;6.2.2023 11:00;P049;Tablet;Home Appliances;3;548.74;1646.22;19;Female;Chicago
+T0877;C126;6.2.2023 12:00;P088;Camera;Electronics;3;1112.85;3338.55;27;Male;Phoenix
+T0878;C451;6.2.2023 13:00;P068;Tablet;Home Appliances;2;1005.06;2010.12;62;Female;Boston
+T0879;C173;6.2.2023 14:00;P012;Laptop;Accessories;3;1400.75;4202.25;67;Female;Phoenix
+T0880;C141;6.2.2023 15:00;P059;Smartwatch;Electronics;1;1240.42;1240.42;64;Female;Los Angeles
+T0881;C242;6.2.2023 16:00;P037;Camera;Electronics;4;871.58;3486.32;29;Female;Miami
+T0882;C220;6.2.2023 17:00;P061;Tablet;Home Appliances;1;1002.69;1002.69;64;Female;New York
+T0883;C126;6.2.2023 18:00;P043;Smartphone;Electronics;1;1352.66;1352.66;30;Male;Boston
+T0884;C058;6.2.2023 19:00;P070;Monitor;Electronics;3;629.3;1887.9;67;Female;Houston
+T0885;C148;6.2.2023 20:00;P039;Laptop;Electronics;1;523.85;523.85;64;Female;New York
+T0886;C476;6.2.2023 21:00;P056;Smartwatch;Electronics;3;65.68;197.04;28;Male;Los Angeles
+T0887;C456;6.2.2023 22:00;P063;Laptop;Electronics;4;1248.5;4994;36;Male;Los Angeles
+T0888;C317;6.2.2023 23:00;P046;Smartphone;Electronics;4;1211.42;4845.68;52;Male;New York
+T0889;C383;7.2.2023 0:00;P088;Smartwatch;Accessories;1;201.46;201.46;56;Female;Houston
+T0890;C361;7.2.2023 1:00;P011;Laptop;Home Appliances;2;886.44;1772.88;43;Female;Boston
+T0891;C423;7.2.2023 2:00;P062;Headphones;Accessories;3;722.77;2168.31;63;Female;Boston
+T0892;C001;7.2.2023 3:00;P077;Smartphone;Electronics;3;222.13;666.39;31;Female;New York
+T0893;C387;7.2.2023 4:00;P098;Smartphone;Electronics;1;1471.82;1471.82;62;Female;Phoenix
+T0894;C461;7.2.2023 5:00;P025;Smartphone;Home Appliances;3;361.31;1083.93;61;Female;Chicago
+T0895;C348;7.2.2023 6:00;P071;Headphones;Accessories;3;147.49;442.47;41;Male;Miami
+T0896;C190;7.2.2023 7:00;P052;Headphones;Home Appliances;2;912.53;1825.06;58;Male;Phoenix
+T0897;C191;7.2.2023 8:00;P004;Tablet;Accessories;2;1121.36;2242.72;18;Female;Boston
+T0898;C369;7.2.2023 9:00;P059;Camera;Electronics;1;97.04;97.04;68;Female;Chicago
+T0899;C409;7.2.2023 10:00;P072;Monitor;Home Appliances;2;1005.14;2010.28;60;Female;Miami
+T0900;C312;7.2.2023 11:00;P020;Laptop;Home Appliances;1;821.82;821.82;39;Female;Miami
+T0901;C417;7.2.2023 12:00;P093;Tablet;Electronics;4;199.73;798.92;40;Female;Miami
+T0902;C422;7.2.2023 13:00;P063;Laptop;Home Appliances;1;300.16;300.16;36;Male;Los Angeles
+T0903;C117;7.2.2023 14:00;P054;Monitor;Accessories;4;873.56;3494.24;35;Male;Miami
+T0904;C134;7.2.2023 15:00;P074;Camera;Accessories;1;479.72;479.72;29;Female;Houston
+T0905;C058;7.2.2023 16:00;P098;Headphones;Accessories;3;1410.56;4231.68;45;Male;New York
+T0906;C044;7.2.2023 17:00;P057;Camera;Accessories;2;1237.17;2474.34;45;Female;Boston
+T0907;C173;7.2.2023 18:00;P090;Headphones;Electronics;4;1476.17;5904.68;50;Female;Houston
+T0908;C160;7.2.2023 19:00;P041;Monitor;Home Appliances;1;426.52;426.52;36;Female;New York
+T0909;C173;7.2.2023 20:00;P003;Camera;Accessories;2;1456.1;2912.2;45;Male;Phoenix
+T0910;C317;7.2.2023 21:00;P006;Tablet;Electronics;1;675.29;675.29;69;Male;Phoenix
+T0911;C303;7.2.2023 22:00;P005;Smartwatch;Home Appliances;2;553.9;1107.8;66;Female;New York
+T0912;C149;7.2.2023 23:00;P005;Tablet;Home Appliances;2;123.01;246.02;54;Male;Houston
+T0913;C080;8.2.2023 0:00;P054;Laptop;Electronics;1;126.51;126.51;43;Male;New York
+T0914;C374;8.2.2023 1:00;P047;Tablet;Electronics;4;1053.42;4213.68;52;Female;Miami
+T0915;C213;8.2.2023 2:00;P087;Monitor;Accessories;4;714;2856;51;Male;Los Angeles
+T0916;C203;8.2.2023 3:00;P049;Smartphone;Home Appliances;3;378.46;1135.38;52;Male;Boston
+T0917;C252;8.2.2023 4:00;P009;Laptop;Home Appliances;2;940.26;1880.52;57;Female;Phoenix
+T0918;C229;8.2.2023 5:00;P099;Camera;Electronics;3;416.64;1249.92;33;Female;Boston
+T0919;C164;8.2.2023 6:00;P020;Laptop;Home Appliances;3;887.57;2662.71;55;Male;Los Angeles
+T0920;C227;8.2.2023 7:00;P061;Smartwatch;Accessories;1;570.85;570.85;30;Female;Miami
+T0921;C147;8.2.2023 8:00;P035;Headphones;Home Appliances;1;1244.15;1244.15;40;Male;Miami
+T0922;C020;8.2.2023 9:00;P050;Camera;Electronics;1;1240.01;1240.01;39;Female;Phoenix
+T0923;C441;8.2.2023 10:00;P082;Laptop;Electronics;2;742.16;1484.32;33;Female;Phoenix
+T0924;C402;8.2.2023 11:00;P062;Camera;Accessories;1;558.69;558.69;45;Female;Miami
+T0925;C047;8.2.2023 12:00;P017;Camera;Accessories;1;575.71;575.71;65;Female;Chicago
+T0926;C233;8.2.2023 13:00;P088;Camera;Home Appliances;2;1218.29;2436.58;52;Male;Boston
+T0927;C305;8.2.2023 14:00;P003;Headphones;Home Appliances;2;525.86;1051.72;62;Female;Los Angeles
+T0928;C014;8.2.2023 15:00;P032;Monitor;Electronics;4;353.14;1412.56;63;Female;Boston
+T0929;C143;8.2.2023 16:00;P099;Tablet;Accessories;1;172.8;172.8;25;Female;Los Angeles
+T0930;C415;8.2.2023 17:00;P013;Camera;Accessories;1;726.71;726.71;61;Male;Chicago
+T0931;C001;8.2.2023 18:00;P089;Smartphone;Accessories;1;749.09;749.09;39;Male;Houston
+T0932;C373;8.2.2023 19:00;P073;Monitor;Home Appliances;4;1269.32;5077.28;38;Female;Los Angeles
+T0933;C054;8.2.2023 20:00;P068;Smartwatch;Accessories;1;370.8;370.8;43;Female;Boston
+T0934;C374;8.2.2023 21:00;P014;Headphones;Electronics;4;602.44;2409.76;57;Female;New York
+T0935;C259;8.2.2023 22:00;P098;Laptop;Electronics;3;1222.19;3666.57;38;Female;Miami
+T0936;C144;8.2.2023 23:00;P011;Headphones;Home Appliances;4;1244.25;4977;42;Female;Miami
+T0937;C471;9.2.2023 0:00;P056;Laptop;Home Appliances;3;607.69;1823.07;58;Female;Chicago
+T0938;C441;9.2.2023 1:00;P067;Headphones;Accessories;1;715.73;715.73;18;Male;Los Angeles
+T0939;C459;9.2.2023 2:00;P092;Laptop;Home Appliances;3;489.76;1469.28;23;Female;Houston
+T0940;C012;9.2.2023 3:00;P029;Camera;Electronics;4;1402.2;5608.8;40;Female;Los Angeles
+T0941;C330;9.2.2023 4:00;P009;Tablet;Accessories;2;222.03;444.06;68;Female;Miami
+T0942;C224;9.2.2023 5:00;P067;Laptop;Electronics;3;1403.94;4211.82;40;Female;Phoenix
+T0943;C272;9.2.2023 6:00;P025;Laptop;Accessories;3;1041.61;3124.83;60;Female;New York
+T0944;C456;9.2.2023 7:00;P098;Smartphone;Home Appliances;1;820.78;820.78;60;Female;Chicago
+T0945;C358;9.2.2023 8:00;P076;Laptop;Accessories;4;97.36;389.44;40;Male;Phoenix
+T0946;C460;9.2.2023 9:00;P042;Smartphone;Accessories;3;739.61;2218.83;49;Male;Boston
+T0947;C408;9.2.2023 10:00;P009;Smartwatch;Electronics;3;641.23;1923.69;47;Male;Houston
+T0948;C156;9.2.2023 11:00;P079;Camera;Electronics;3;283.77;851.31;30;Male;Phoenix
+T0949;C373;9.2.2023 12:00;P040;Smartphone;Accessories;3;1001.79;3005.37;60;Male;Boston
+T0950;C008;9.2.2023 13:00;P025;Tablet;Home Appliances;2;1458.17;2916.34;35;Male;Phoenix
+T0951;C122;9.2.2023 14:00;P005;Monitor;Home Appliances;4;865.17;3460.68;40;Female;Houston
+T0952;C348;9.2.2023 15:00;P011;Camera;Electronics;1;1086.39;1086.39;32;Female;Phoenix
+T0953;C164;9.2.2023 16:00;P059;Smartphone;Home Appliances;1;149.25;149.25;50;Female;Chicago
+T0954;C090;9.2.2023 17:00;P098;Camera;Electronics;2;655.62;1311.24;38;Female;Miami
+T0955;C136;9.2.2023 18:00;P088;Camera;Home Appliances;4;218.72;874.88;56;Female;Los Angeles
+T0956;C186;9.2.2023 19:00;P079;Camera;Accessories;3;938.55;2815.65;40;Female;Phoenix
+T0957;C316;9.2.2023 20:00;P038;Smartwatch;Electronics;2;1410.8;2821.6;44;Male;Chicago
+T0958;C178;9.2.2023 21:00;P072;Tablet;Electronics;4;1009.58;4038.32;62;Female;Los Angeles
+T0959;C028;9.2.2023 22:00;P005;Headphones;Accessories;3;161.36;484.08;61;Male;Boston
+T0960;C220;9.2.2023 23:00;P048;Headphones;Electronics;2;564.27;1128.54;35;Male;Los Angeles
+T0961;C357;10.2.2023 0:00;P090;Smartphone;Home Appliances;4;848.46;3393.84;41;Female;Boston
+T0962;C041;10.2.2023 1:00;P018;Camera;Home Appliances;1;634.65;634.65;68;Female;Phoenix
+T0963;C228;10.2.2023 2:00;P070;Smartphone;Electronics;1;1258.78;1258.78;64;Female;Chicago
+T0964;C192;10.2.2023 3:00;P037;Smartwatch;Home Appliances;4;1231.27;4925.08;57;Female;Miami
+T0965;C411;10.2.2023 4:00;P060;Smartwatch;Electronics;1;937.15;937.15;68;Female;Phoenix
+T0966;C447;10.2.2023 5:00;P048;Laptop;Accessories;4;591.51;2366.04;59;Female;Boston
+T0967;C145;10.2.2023 6:00;P077;Smartwatch;Electronics;3;420.24;1260.72;24;Female;Houston
+T0968;C201;10.2.2023 7:00;P028;Laptop;Accessories;4;203.52;814.08;67;Male;Los Angeles
+T0969;C417;10.2.2023 8:00;P069;Tablet;Home Appliances;3;564.6;1693.8;65;Female;Phoenix
+T0970;C212;10.2.2023 9:00;P077;Smartphone;Accessories;2;649.1;1298.2;37;Female;Boston
+T0971;C461;10.2.2023 10:00;P081;Monitor;Home Appliances;4;1029.94;4119.76;44;Male;Los Angeles
+T0972;C220;10.2.2023 11:00;P040;Tablet;Electronics;2;1004.33;2008.66;23;Female;Boston
+T0973;C240;10.2.2023 12:00;P045;Smartwatch;Home Appliances;1;151.66;151.66;44;Female;Chicago
+T0974;C413;10.2.2023 13:00;P096;Tablet;Electronics;3;623.13;1869.39;26;Male;New York
+T0975;C397;10.2.2023 14:00;P062;Tablet;Electronics;4;313.58;1254.32;62;Female;Phoenix
+T0976;C046;10.2.2023 15:00;P093;Tablet;Accessories;2;277.38;554.76;48;Female;Miami
+T0977;C035;10.2.2023 16:00;P058;Smartwatch;Accessories;3;1249.59;3748.77;38;Female;Phoenix
+T0978;C253;10.2.2023 17:00;P067;Monitor;Accessories;3;110.78;332.34;43;Female;Los Angeles
+T0979;C390;10.2.2023 18:00;P056;Camera;Accessories;1;657.82;657.82;57;Female;Chicago
+T0980;C082;10.2.2023 19:00;P040;Tablet;Home Appliances;1;293.9;293.9;65;Female;Boston
+T0981;C371;10.2.2023 20:00;P098;Laptop;Home Appliances;3;1325.03;3975.09;62;Male;Houston
+T0982;C256;10.2.2023 21:00;P040;Smartwatch;Home Appliances;3;857.71;2573.13;30;Female;Miami
+T0983;C197;10.2.2023 22:00;P091;Tablet;Electronics;4;385.5;1542;66;Female;Chicago
+T0984;C303;10.2.2023 23:00;P077;Monitor;Home Appliances;3;778.52;2335.56;40;Male;Phoenix
+T0985;C409;11.2.2023 0:00;P033;Camera;Home Appliances;4;1110.66;4442.64;37;Male;Houston
+T0986;C450;11.2.2023 1:00;P006;Smartwatch;Home Appliances;3;1439.27;4317.81;54;Female;Chicago
+T0987;C010;11.2.2023 2:00;P088;Headphones;Accessories;1;369.65;369.65;45;Male;New York
+T0988;C312;11.2.2023 3:00;P019;Camera;Home Appliances;4;1334.96;5339.84;34;Female;Miami
+T0989;C286;11.2.2023 4:00;P080;Laptop;Electronics;2;1404.74;2809.48;45;Female;Los Angeles
+T0990;C242;11.2.2023 5:00;P040;Tablet;Accessories;1;1378.81;1378.81;58;Male;Chicago
+T0991;C251;11.2.2023 6:00;P092;Monitor;Electronics;4;971.35;3885.4;19;Female;Chicago
+T0992;C365;11.2.2023 7:00;P097;Headphones;Home Appliances;4;963.24;3852.96;42;Female;New York
+T0993;C005;11.2.2023 8:00;P059;Monitor;Accessories;2;634.66;1269.32;67;Male;Phoenix
+T0994;C119;11.2.2023 9:00;P059;Headphones;Electronics;4;1140.98;4563.92;58;Male;Boston
+T0995;C289;11.2.2023 10:00;P048;Smartwatch;Home Appliances;3;820.38;2461.14;23;Male;Boston
+T0996;C374;11.2.2023 11:00;P041;Headphones;Electronics;2;1032.29;2064.58;28;Male;Miami
+T0997;C065;11.2.2023 12:00;P013;Laptop;Electronics;1;671.26;671.26;55;Female;Miami
+T0998;C146;11.2.2023 13:00;P045;Laptop;Electronics;1;1110.67;1110.67;23;Male;Los Angeles
+T0999;C224;11.2.2023 14:00;P089;Smartphone;Home Appliances;3;1245.48;3736.44;62;Male;Chicago
+T1000;C239;11.2.2023 15:00;P053;Laptop;Home Appliances;1;262.33;262.33;28;Male;Houston
+;;;;;;;;1911189.49;;;
