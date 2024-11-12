@@ -35,7 +35,7 @@ Comparison how much men and women spent
 
 # EXPENSES BY CUSTOMER AGE
 
-Comparison how much men and women spent 
+Comparison how much men and women spent by their age
 
 <img src='images/Comparison of expenses by the age of the customers.png' width='500'>
 
